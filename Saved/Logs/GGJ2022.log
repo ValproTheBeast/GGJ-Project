@@ -920,3 +920,781 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.29-15.47.55:196][217]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Runtime/OpenXREyeTracker/Content/' because it could not be accessed. Aborting watch request...
 [2022.01.29-15.47.55:196][217]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Runtime/OpenXRHandTracking/Content/' because it could not be accessed. Aborting watch request...
 [2022.01.29-15.47.55:863][219]LogDirectoryWatcher: Display: A directory notification failed for '../../Plugins/Runtime/PostSplashScreen/Content/' because it could not be accessed. Aborting watch request...
+[2022.01.29-15.58.57:837][866]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-15.58.57:843][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.29-15.58.57:844][866]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 29, 2022, 3:58:57 AM)
+[2022.01.29-15.58.57:845][866]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.29-15.58.57:847][866]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.29-15.58.57:847][866]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.29-15.58.57:861][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014260s)
+[2022.01.29-15.58.57:862][866]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.29-15.58.57:862][866]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2022.01.29-15.58.57:862][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015868s)
+[2022.01.29-15.58.57:892][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.01.29-15.58.57:894][866]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.29-15.58.57:894][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-15.58.57:894][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-15.58.57:894][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-15.58.57:894][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-15.58.57:894][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-15.58.57:894][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-15.58.57:894][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-15.58.57:894][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-15.58.57:894][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-15.58.57:894][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-15.58.57:894][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-15.58.57:894][866]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-15.58.57:900][866]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-15.58.57:900][866]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-15.58.57:909][866]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.29-15.58.57:909][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-15.58.57:909][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-15.58.57:909][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-15.58.57:910][866]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-15.58.57:910][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-15.58.57:910][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-15.58.57:911][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-15.58.57:911][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-15.58.57:911][866]LogInit: FAudioDevice initialized.
+[2022.01.29-15.58.57:911][866]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.01.29-15.58.57:926][866]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.29-15.58.57:928][866]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.01.29-09.58.57
+[2022.01.29-15.58.57:929][866]LogWorld: Bringing up level for play took: 0.001688
+[2022.01.29-15.58.57:929][866]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.01.29-15.58.57:932][866]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.01.29-15.58.57:933][866]PIE: Server logged in
+[2022.01.29-15.58.57:934][866]PIE: Play in editor total start time 0.092 seconds.
+[2022.01.29-16.00.51:256][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-16.00.51:256][369]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.29-16.00.51:257][369]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.00.51:257][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.00.51:268][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.29-16.00.51:273][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.00.51:300][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-16.00.51:301][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-16.00.51:302][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-16.00.51:304][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-16.00.51:313][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.01.29-16.00.51:342][370]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.01.29-16.01.22:451][380]LogRenderer: Reallocating scene render targets to support 976x456 Format 10 NumSamples 1 (Frame:1).
+[2022.01.29-16.02.52:117][476]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.05.55:527][358]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Unreal Projects/GGJ2022/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.01.29-16.05.55:527][358]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Unreal Projects/GGJ2022/Content/Developers/tonyf/Collections/' because it could not be accessed. Aborting watch request...
+[2022.01.29-16.05.55:527][358]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Unreal Projects/GGJ2022/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.01.29-16.07.40:259][506]LogTexture: Display: Building textures: StandardBaseColorTex (OODLE_AutoDXT, 256X256)
+[2022.01.29-16.07.40:259][506]LogSkeletalMesh: Building Skeletal Mesh WizardSM...
+[2022.01.29-16.07.40:269][506]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/BattleWizardPolyart/Meshes/WizardSM.WizardSM
+[2022.01.29-16.07.40:270][506]LogMaterial: Display: Missing cached shadermap for StandardPolyartMat in PCD3D_SM5, Default, SM5 (DDC key hash: 6ABB532F2C758AE83C5BCB5A711BFD1F570960E3), compiling. 
+[2022.01.29-16.07.40:339][506]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.01.29-16.07.40:344][506]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2022.01.29-16.07.40:344][506]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.01.29-16.07.40:344][506]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.01.29-16.07.40:344][506]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.01.29-16.07.40:344][506]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2022.01.29-16.07.40:348][506]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2022.01.29-16.07.40:349][506]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2022.01.29-16.07.40:351][506]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2022.01.29-16.07.40:351][506]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2022.01.29-16.07.44:017][764]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.29-16.07.44:017][764]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2022.01.29-16.07.44:017][764]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2022.01.29-16.07.44:017][764]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.01.29-16.07.44:017][764]LogShaderCompilers: Display: ================================================
+[2022.01.29-16.08.09:675][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2022.01.29-16.08.14:248][506]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.01.29-16.08.14:350][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.01.29-16.08.14:418][506]LogSlate: Took 0.007259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.29-16.08.17:453][846]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-16.08.17:458][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.29-16.08.17:458][846]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 29, 2022, 4:08:17 AM)
+[2022.01.29-16.08.17:482][846]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.29-16.08.17:493][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011662s)
+[2022.01.29-16.08.17:494][846]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.29-16.08.17:494][846]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2022.01.29-16.08.17:494][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013098s)
+[2022.01.29-16.08.17:526][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.01.29-16.08.17:528][846]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.29-16.08.17:528][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-16.08.17:528][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-16.08.17:528][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-16.08.17:528][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-16.08.17:528][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-16.08.17:528][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-16.08.17:528][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-16.08.17:528][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-16.08.17:529][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-16.08.17:529][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-16.08.17:529][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-16.08.17:529][846]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-16.08.17:534][846]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-16.08.17:534][846]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-16.08.17:543][846]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.29-16.08.17:544][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-16.08.17:544][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-16.08.17:544][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-16.08.17:544][846]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-16.08.17:544][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-16.08.17:544][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-16.08.17:546][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-16.08.17:546][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-16.08.17:546][846]LogInit: FAudioDevice initialized.
+[2022.01.29-16.08.17:546][846]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.01.29-16.08.17:556][846]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.29-16.08.17:558][846]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.01.29-10.08.17
+[2022.01.29-16.08.17:558][846]LogWorld: Bringing up level for play took: 0.001579
+[2022.01.29-16.08.17:558][846]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.01.29-16.08.17:561][846]PIE: Server logged in
+[2022.01.29-16.08.17:562][846]PIE: Play in editor total start time 0.104 seconds.
+[2022.01.29-16.08.31:333][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-16.08.31:333][936]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.29-16.08.31:333][936]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.08.31:333][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.08.31:342][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.29-16.08.31:347][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.08.31:372][936]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-16.08.31:372][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-16.08.31:373][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-16.08.31:375][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-16.08.31:380][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.01.29-16.08.31:400][937]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.01.29-16.09.02:584][719]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2022.01.29-16.09.02:603][719]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.01.29-16.09.02:618][719]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.29-16.09.02:764][719]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.29-16.09.02:879][719]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.09.02:884][719]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.01.29-16.09.27:267][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2022.01.29-16.09.45:465][527]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.01.29-16.09.45:469][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.09.45:887][528]LogRenderer: Reallocating scene render targets to support 976x568 Format 10 NumSamples 1 (Frame:1).
+[2022.01.29-16.09.49:220][862]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.01.29-16.09.49:224][862]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.10.01:548][135]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.10.01:548][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.10.02:484][239]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.10.02:484][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.10.03:768][382]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.10.03:768][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.10.05:767][563]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.01.29-16.10.05:771][563]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.10.07:989][755]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.10.07:989][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.10.14:373][329]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin_Female.SK_Mannequin_Female
+[2022.01.29-16.10.14:377][329]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.10.18:044][688]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.01.29-16.10.18:049][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.10.36:383][302]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.10.36:383][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.10.37:458][415]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.10.37:458][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.11.05:297][136]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-16.11.05:323][136]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.11.13:214][924]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.01.29-16.11.13:363][924]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2022.01.29-16.11.16:818][266]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-16.11.16:843][266]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.11.22:291][850]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.01.29-16.11.22:405][850]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2022.01.29-16.11.28:071][388]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-16.11.28:095][388]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.12.08:290][259]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2022.01.29-16.12.08:301][259]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.12.08:948][259]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.01.29-16.12.29:781][ 89]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.01.29-16.13.58:238][225]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2022.01.29-16.13.58:243][225]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.13.59:041][225]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.01.29-16.14.13:210][936]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2022.01.29-16.14.13:264][936]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.14.13:264][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.14.27:929][282]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Idle02Anim.Idle02Anim
+[2022.01.29-16.14.33:308][755]Cmd: TRANSACTION UNDO
+[2022.01.29-16.14.33:309][755]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2022.01.29-16.14.33:651][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.33:654][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.33:655][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.43:554][610]Cmd: TRANSACTION UNDO
+[2022.01.29-16.14.43:554][610]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2022.01.29-16.14.43:867][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.43:869][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.43:870][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.49:687][115]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Idle03Anim.Idle03Anim
+[2022.01.29-16.14.51:176][245]Cmd: TRANSACTION UNDO
+[2022.01.29-16.14.51:176][245]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2022.01.29-16.14.51:485][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.51:487][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.51:488][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.14.58:833][858]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.14.58:833][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.15.13:691][170]Cmd: TRANSACTION UNDO
+[2022.01.29-16.15.13:691][170]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2022.01.29-16.15.14:010][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.15.14:013][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.15.14:013][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.15.36:092][115]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/UE4_Mannequin_Skeleton_BlendSpac0AB7DE934DFDF413E039F8818BFF38BE.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.uasset'
+[2022.01.29-16.15.36:121][115]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton_BlendSpace
+[2022.01.29-16.15.36:121][115]LogContentValidation: Display: Validating BlendSpace /Game/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.UE4_Mannequin_Skeleton_BlendSpace
+[2022.01.29-16.16.40:892][628]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2022.01.29-16.16.40:899][628]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Blendspace Player 'UE4_Mannequin_Skeleton_BlendSpace'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2022.01.29-16.16.40:903][628]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2022.01.29-16.16.41:148][628]LogUObjectHash: Compacting FUObjectHashTables data took  10.98ms
+[2022.01.29-16.16.50:157][400]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2022.01.29-16.16.50:163][400]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Blendspace Player 'UE4_Mannequin_Skeleton_BlendSpace'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2022.01.29-16.16.50:167][400]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2022.01.29-16.16.50:337][400]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2022.01.29-16.17.16:087][868]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.01.29-16.17.16:092][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.17.19:206][127]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.01.29-16.17.19:210][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.17.22:950][412]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.17.22:950][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.17.23:844][490]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.17.23:844][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.17.51:151][968]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.01.29-16.17.51:156][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.18.40:936][254]LogAnimation: Warning: AnimBP PROTO_BP_AnimBlueprint_0_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2022.01.29-16.18.40:938][254]LogAnimation: Warning: AnimBP PROTO_BP_AnimBlueprint_0_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2022.01.29-16.18.40:939][254]LogAnimation: Warning: AnimBP PROTO_BP_AnimBlueprint_0_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2022.01.29-16.18.40:939][254]LogAnimation: Warning: AnimBP PROTO_BP_AnimBlueprint_0_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2022.01.29-16.18.46:212][673]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2022.01.29-16.18.46:218][673]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Blendspace Player 'UE4_Mannequin_Skeleton_BlendSpace'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2022.01.29-16.18.46:222][673]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2022.01.29-16.18.46:309][673]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2022.01.29-16.19.13:655][363]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/BattleWizardPolyart/Meshes/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.01.29-16.19.13:659][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.19.25:234][293]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.19.25:234][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.19.25:294][293]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.19.25:294][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.20.11:145][137]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2022.01.29-16.20.11:152][137]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Blendspace Player 'UE4_Mannequin_Skeleton_BlendSpace'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2022.01.29-16.20.11:156][137]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2022.01.29-16.20.11:248][137]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2022.01.29-16.20.19:926][818]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2022.01.29-16.20.19:933][818]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Blendspace Player 'UE4_Mannequin_Skeleton_BlendSpace'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2022.01.29-16.20.19:936][818]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2022.01.29-16.20.20:021][818]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2022.01.29-16.20.29:267][537]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.20.31:145][620]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2022.01.29-16.20.31:150][620]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Blendspace Player 'UE4_Mannequin_Skeleton_BlendSpace'  references blendspace that uses different skeleton  UE4_Mannequin_Skeleton
+[2022.01.29-16.20.31:153][620]LogBlueprint: Error: [AssetLog] F:\Unreal Projects\GGJ2022\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2022.01.29-16.20.31:227][620]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2022.01.29-16.20.36:107][985]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.01.29-16.20.36:111][985]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.20.54:556][429]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2022.01.29-16.21.10:745][681]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2022.01.29-16.22.06:882][856]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2022.01.29-16.22.21:143][856]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.29-16.22.24:252][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2022.01.29-16.22.24:290][138]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonExampleMap_Auto121658F1D4F342EE99B94D1A9CE3506E6.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.01.29-16.22.24:292][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.084
+[2022.01.29-16.22.24:292][138]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2022.01.29-16.22.24:292][138]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([2] browsable assets)...
+[2022.01.29-16.22.24:303][138]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2022.01.29-16.22.24:303][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2022.01.29-16.22.24:345][138]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPerson_AnimBP_Auto11017F3034A9B6CDD04E86BA7494C57A1.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto1.uasset'
+[2022.01.29-16.22.24:346][138]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.01.29-16.22.24:364][138]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2022.01.29-16.22.24:374][138]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.01.29-16.22.24:374][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.01.29-16.22.24:418][138]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonCharacter_Auto13D245DB94AA61214DAC4479C4B0E276E.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2022.01.29-16.22.24:420][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Mesh/SK_Mannequin] ([1] browsable assets)...
+[2022.01.29-16.22.24:430][138]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin]
+[2022.01.29-16.22.24:430][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/SK_Mannequin]
+[2022.01.29-16.22.24:507][138]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/SK_Mannequin_Auto19CF27FB743AE4926FE7132A3E3ABB502.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_Auto1.uasset'
+[2022.01.29-16.22.24:508][138]LogFileHelpers: Auto-saving content packages took 0.216
+[2022.01.29-16.22.47:939][524]LogContentBrowser: Attempting asset rename: UE4_Mannequin_Skeleton -> _wizard
+[2022.01.29-16.22.48:023][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Attack01Anim.Attack01Anim
+[2022.01.29-16.22.48:023][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAnim.JumpAirAnim
+[2022.01.29-16.22.48:091][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Meshes/_wizard" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Meshes/_wizard.uasset" SILENT=true
+[2022.01.29-16.22.48:093][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/_wizardDC99DAC84BF1E1762F6D9493080A867F.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Meshes/_wizard.uasset'
+[2022.01.29-16.22.48:234][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2022.01.29-16.22.48:297][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.01.29-16.22.48:343][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.01.29-16.22.48:385][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack01Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack01Anim.uasset" SILENT=true
+[2022.01.29-16.22.48:393][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack01Anim70E92BDA47E18A89E069A1B5A26F6B41.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack01Anim.uasset'
+[2022.01.29-16.22.48:405][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpAirAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpAirAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:414][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpAirAnim86F97B7E49D7BA1DA104AD973066FF59.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpAirAnim.uasset'
+[2022.01.29-16.22.48:426][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpEndAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpEndAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:465][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpEndAnim.JumpEndAnim
+[2022.01.29-16.22.48:465][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpEndAnim2C9E03564811F0BE65B8228545D49118.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpEndAnim.uasset'
+[2022.01.29-16.22.48:478][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/InteractAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/InteractAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:548][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/InteractAnim.InteractAnim
+[2022.01.29-16.22.48:548][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/InteractAnimC63E3B90477A56BC5E13B6B23672C5E6.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/InteractAnim.uasset'
+[2022.01.29-16.22.48:562][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Idle01Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle01Anim.uasset" SILENT=true
+[2022.01.29-16.22.48:571][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Idle01AnimA595C4A74FD1AB8B8F3ED6AB221BA040.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle01Anim.uasset'
+[2022.01.29-16.22.48:584][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DefendStartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendStartAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:609][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/DefendStartAnim.DefendStartAnim
+[2022.01.29-16.22.48:609][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DefendStartAnim56CE042347268D041B2A88AAEE291342.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendStartAnim.uasset'
+[2022.01.29-16.22.48:622][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/BattleWalkForwardAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkForwardAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:674][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkForwardAnim.BattleWalkForwardAnim
+[2022.01.29-16.22.48:674][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleWalkForwardAnim39920AAF446AD39E3B9A4C9D94D6FED5.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkForwardAnim.uasset'
+[2022.01.29-16.22.48:685][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpUpAttackAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpUpAttackAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:723][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpUpAttackAnim.JumpUpAttackAnim
+[2022.01.29-16.22.48:723][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpUpAttackAnimBF4C92EE48B2ABF669ED649E8894522F.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpUpAttackAnim.uasset'
+[2022.01.29-16.22.48:736][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DieAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DieAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:777][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/DieAnim.DieAnim
+[2022.01.29-16.22.48:777][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DieAnimE7ACB956422D690D738B81A4AD78146D.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DieAnim.uasset'
+[2022.01.29-16.22.48:790][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack03StartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack03StartAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:850][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Attack03StartAnim.Attack03StartAnim
+[2022.01.29-16.22.48:850][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack03StartAnim5E1FFEC84DC22AFA85B6B58179487AA1.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack03StartAnim.uasset'
+[2022.01.29-16.22.48:864][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/GetHitAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/GetHitAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:920][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/GetHitAnim.GetHitAnim
+[2022.01.29-16.22.48:920][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/GetHitAnimE325366E4E37C377A9921ABE54E3C7AA.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/GetHitAnim.uasset'
+[2022.01.29-16.22.48:934][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DizzyAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DizzyAnim.uasset" SILENT=true
+[2022.01.29-16.22.48:994][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/DizzyAnim.DizzyAnim
+[2022.01.29-16.22.49:005][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DizzyAnimFF83AC3B48950B93EF507797CB2D1299.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DizzyAnim.uasset'
+[2022.01.29-16.22.49:021][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Idle02Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle02Anim.uasset" SILENT=true
+[2022.01.29-16.22.49:034][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Idle02Anim6A40E93440F56E1A1DC82D998F57399D.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle02Anim.uasset'
+[2022.01.29-16.22.49:049][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/VictoryStartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/VictoryStartAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:166][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/VictoryStartAnim.VictoryStartAnim
+[2022.01.29-16.22.49:166][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/VictoryStartAnim310E8E1B461739F88D5EFE8E8A24348D.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/VictoryStartAnim.uasset'
+[2022.01.29-16.22.49:179][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DefendHitAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendHitAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:204][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/DefendHitAnim.DefendHitAnim
+[2022.01.29-16.22.49:213][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DefendHitAnim8653AEC64C0AC8E58084DBAF05BF0CAE.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendHitAnim.uasset'
+[2022.01.29-16.22.49:226][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpAirAttackAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpAirAttackAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:266][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAttackAnim.JumpAirAttackAnim
+[2022.01.29-16.22.49:266][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpAirAttackAnim4CA5C4A541A79E7FEFD6AAACFFB6A114.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpAirAttackAnim.uasset'
+[2022.01.29-16.22.49:279][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack02MaintainAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack02MaintainAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:302][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Attack02MaintainAnim.Attack02MaintainAnim
+[2022.01.29-16.22.49:302][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack02MaintainAnimC0E06BB142E0FDC5208338A3EC5F8E3A.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack02MaintainAnim.uasset'
+[2022.01.29-16.22.49:315][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/WalkForwardAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/WalkForwardAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:373][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/WalkForwardAnim.WalkForwardAnim
+[2022.01.29-16.22.49:373][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/WalkForwardAnim8B306B984D158C4FE3B472B3693DB3AE.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/WalkForwardAnim.uasset'
+[2022.01.29-16.22.49:385][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Idle03Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle03Anim.uasset" SILENT=true
+[2022.01.29-16.22.49:393][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Idle03Anim79D7C00D4B85575C55BDDC938CEDDB15.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle03Anim.uasset'
+[2022.01.29-16.22.49:405][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DefendMaintainAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendMaintainAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:424][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/DefendMaintainAnim.DefendMaintainAnim
+[2022.01.29-16.22.49:424][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DefendMaintainAnimCCFC026C407E16E08F972BBF2F8963E6.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendMaintainAnim.uasset'
+[2022.01.29-16.22.49:435][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack04Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack04Anim.uasset" SILENT=true
+[2022.01.29-16.22.49:489][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Attack04Anim.Attack04Anim
+[2022.01.29-16.22.49:489][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack04AnimB54214E14794BD8FF80926AA75000483.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack04Anim.uasset'
+[2022.01.29-16.22.49:501][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpStartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpStartAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:533][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpStartAnim.JumpStartAnim
+[2022.01.29-16.22.49:533][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpStartAnimDAC420474036F4962361A78016EF1667.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpStartAnim.uasset'
+[2022.01.29-16.22.49:604][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkBackwardAnim.BattleWalkBackwardAnim
+[2022.01.29-16.22.49:604][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleWalkBackwardAnim192D930F4348BB5E0CD7FCA9E7EEBBA8.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkBackwardAnim.uasset'
+[2022.01.29-16.22.49:617][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Meshes/WizardSM" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Meshes/WizardSM.uasset" SILENT=true
+[2022.01.29-16.22.49:653][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/WizardSMC6A4499648ABD03D3D123599E13DFBEA.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Meshes/WizardSM.uasset'
+[2022.01.29-16.22.49:667][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DieRecoverAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DieRecoverAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:737][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/DieRecoverAnim.DieRecoverAnim
+[2022.01.29-16.22.49:737][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DieRecoverAnimB2EA47134B269C253EDBFEB64F7CB89C.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DieRecoverAnim.uasset'
+[2022.01.29-16.22.49:752][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/BattleWalkLeftAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkLeftAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:814][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkLeftAnim.BattleWalkLeftAnim
+[2022.01.29-16.22.49:814][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleWalkLeftAnim2181408F4C4EBEE13639D0AF24BA3291.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkLeftAnim.uasset'
+[2022.01.29-16.22.49:829][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/BattleWalkRightAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkRightAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:891][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkRightAnim.BattleWalkRightAnim
+[2022.01.29-16.22.49:892][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleWalkRightAnim574ED28943A06DFCCD2EB4A78467AFF3.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkRightAnim.uasset'
+[2022.01.29-16.22.49:905][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/VictoryMaintainAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/VictoryMaintainAnim.uasset" SILENT=true
+[2022.01.29-16.22.49:965][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/VictoryMaintainAnim.VictoryMaintainAnim
+[2022.01.29-16.22.49:965][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/VictoryMaintainAnim4318BF8F4A637D29FF4647ABA2C68AFB.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/VictoryMaintainAnim.uasset'
+[2022.01.29-16.22.49:978][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/PotionDrinkAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/PotionDrinkAnim.uasset" SILENT=true
+[2022.01.29-16.22.50:073][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/PotionDrinkAnim.PotionDrinkAnim
+[2022.01.29-16.22.50:083][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/PotionDrinkAnimC80545144552BBBDA4F8EBB7068B8F9F.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/PotionDrinkAnim.uasset'
+[2022.01.29-16.22.50:096][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpUpAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpUpAnim.uasset" SILENT=true
+[2022.01.29-16.22.50:119][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpUpAnim.JumpUpAnim
+[2022.01.29-16.22.50:119][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpUpAnimA508781C4736803A59036E9CA15AD69D.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpUpAnim.uasset'
+[2022.01.29-16.22.50:132][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack02StartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack02StartAnim.uasset" SILENT=true
+[2022.01.29-16.22.50:169][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Attack02StartAnim.Attack02StartAnim
+[2022.01.29-16.22.50:169][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack02StartAnim4324D2574FFA67DC67ED9ABDFC9256A4.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack02StartAnim.uasset'
+[2022.01.29-16.22.50:183][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/PickUpAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/PickUpAnim.uasset" SILENT=true
+[2022.01.29-16.22.50:257][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/PickUpAnim.PickUpAnim
+[2022.01.29-16.22.50:257][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/PickUpAnim01F170764057A63220692FB3F45E9FC2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/PickUpAnim.uasset'
+[2022.01.29-16.22.50:271][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/BattleRunForwardAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleRunForwardAnim.uasset" SILENT=true
+[2022.01.29-16.22.50:301][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim
+[2022.01.29-16.22.50:311][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleRunForwardAnim956493EE4066D04980F95F98B4E1DB61.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleRunForwardAnim.uasset'
+[2022.01.29-16.22.50:324][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack03MaintainAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack03MaintainAnim.uasset" SILENT=true
+[2022.01.29-16.22.50:346][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BattleWizardPolyart/Animations/Attack03MaintainAnim.Attack03MaintainAnim
+[2022.01.29-16.22.50:346][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack03MaintainAnim165C54E3492D4013139FC9935E4A5550.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack03MaintainAnim.uasset'
+[2022.01.29-16.22.50:349][524]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/UE4_Mannequin_Skeleton_BlendSpacB61C772B4033F626231B748C0A400C25.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.uasset'
+[2022.01.29-16.22.50:502][524]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating SkeletalMesh /Game/BattleWizardPolyart/Meshes/WizardSM.WizardSM
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating Skeleton /Game/BattleWizardPolyart/Meshes/_wizard._wizard
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack03MaintainAnim.Attack03MaintainAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/PickUpAnim.PickUpAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack02StartAnim.Attack02StartAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpUpAnim.JumpUpAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/PotionDrinkAnim.PotionDrinkAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/VictoryMaintainAnim.VictoryMaintainAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkRightAnim.BattleWalkRightAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkLeftAnim.BattleWalkLeftAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DieRecoverAnim.DieRecoverAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkBackwardAnim.BattleWalkBackwardAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpStartAnim.JumpStartAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack04Anim.Attack04Anim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DefendMaintainAnim.DefendMaintainAnim
+[2022.01.29-16.22.50:502][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/WalkForwardAnim.WalkForwardAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack02MaintainAnim.Attack02MaintainAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAttackAnim.JumpAirAttackAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DefendHitAnim.DefendHitAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/VictoryStartAnim.VictoryStartAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DizzyAnim.DizzyAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/GetHitAnim.GetHitAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack03StartAnim.Attack03StartAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DieAnim.DieAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpUpAttackAnim.JumpUpAttackAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkForwardAnim.BattleWalkForwardAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DefendStartAnim.DefendStartAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/InteractAnim.InteractAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpEndAnim.JumpEndAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAnim.JumpAirAnim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack01Anim.Attack01Anim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating BlendSpace /Game/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.UE4_Mannequin_Skeleton_BlendSpace
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Idle02Anim.Idle02Anim
+[2022.01.29-16.22.50:503][524]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Idle03Anim.Idle03Anim
+[2022.01.29-16.23.20:568][424]LogContentBrowser: Attempting asset rename: _wizard -> UE4_Man_Skel_wizard
+[2022.01.29-16.23.20:636][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Meshes/UE4_Man_Skel_wizard" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Meshes/UE4_Man_Skel_wizard.uasset" SILENT=true
+[2022.01.29-16.23.20:639][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/UE4_Man_Skel_wizard24770B214200BCB15BA26C890B9CB2F2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Meshes/UE4_Man_Skel_wizard.uasset'
+[2022.01.29-16.23.20:767][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.01.29-16.23.20:829][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.01.29-16.23.20:874][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.01.29-16.23.20:902][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack01Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack01Anim.uasset" SILENT=true
+[2022.01.29-16.23.20:905][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack01AnimBB382E86421420291617ECAF6C1BB5B2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack01Anim.uasset'
+[2022.01.29-16.23.20:905][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpAirAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpAirAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:908][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpAirAnim2F7171CF4882F6D0DCE7FC993B4043A2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpAirAnim.uasset'
+[2022.01.29-16.23.20:908][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpEndAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpEndAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:911][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpEndAnimD111783D4F829670AC4659959FD1FD73.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpEndAnim.uasset'
+[2022.01.29-16.23.20:912][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/InteractAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/InteractAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:914][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/InteractAnimEF21A5B64BB5DECCBCC1618103D271F1.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/InteractAnim.uasset'
+[2022.01.29-16.23.20:915][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Idle01Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle01Anim.uasset" SILENT=true
+[2022.01.29-16.23.20:917][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Idle01Anim96C265EC42B51E57ED672CA97DB76FCA.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle01Anim.uasset'
+[2022.01.29-16.23.20:918][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DefendStartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendStartAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:920][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DefendStartAnimE3EF80634AEB59CAE0089BB565898D13.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendStartAnim.uasset'
+[2022.01.29-16.23.20:921][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/BattleWalkForwardAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkForwardAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:923][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleWalkForwardAnimA0CB0EEC47D5D978FA375680D87E77E3.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkForwardAnim.uasset'
+[2022.01.29-16.23.20:924][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpUpAttackAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpUpAttackAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:927][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpUpAttackAnimB3A4030C4CC7A77D32CB89BB33EE3DC3.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpUpAttackAnim.uasset'
+[2022.01.29-16.23.20:927][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DieAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DieAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:930][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DieAnim00D10C604C71A80D346204886E645C1C.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DieAnim.uasset'
+[2022.01.29-16.23.20:931][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack03StartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack03StartAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:933][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack03StartAnimBE266B1A4F408299F720DAAFD6E3F4B2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack03StartAnim.uasset'
+[2022.01.29-16.23.20:934][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/GetHitAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/GetHitAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:936][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/GetHitAnimEED8EE8B4F0B30ACFD88BEB67B9B88D0.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/GetHitAnim.uasset'
+[2022.01.29-16.23.20:937][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DizzyAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DizzyAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:940][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DizzyAnim6D93AB0F4532DFF68A32ED80701E64B3.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DizzyAnim.uasset'
+[2022.01.29-16.23.20:941][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Idle02Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle02Anim.uasset" SILENT=true
+[2022.01.29-16.23.20:944][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Idle02Anim75F589BB4CFC4EBCD0E6D88A64BC6CAB.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle02Anim.uasset'
+[2022.01.29-16.23.20:945][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/VictoryStartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/VictoryStartAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:948][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/VictoryStartAnim7B2B2C64414FBE9379C10CA25BA55421.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/VictoryStartAnim.uasset'
+[2022.01.29-16.23.20:949][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DefendHitAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendHitAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:951][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DefendHitAnimFFA1B1D444117853C4B9E89C8EDE24BA.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendHitAnim.uasset'
+[2022.01.29-16.23.20:952][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpAirAttackAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpAirAttackAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:954][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpAirAttackAnim28BC6B77451C434078E80692F4173FF5.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpAirAttackAnim.uasset'
+[2022.01.29-16.23.20:955][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack02MaintainAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack02MaintainAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:958][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack02MaintainAnim8C8B14E6485FD33CC0C0A9B6C3E1F018.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack02MaintainAnim.uasset'
+[2022.01.29-16.23.20:959][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/WalkForwardAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/WalkForwardAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:962][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/WalkForwardAnimEE0576974D0F88C82A6760BB03CB661B.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/WalkForwardAnim.uasset'
+[2022.01.29-16.23.20:963][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Idle03Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle03Anim.uasset" SILENT=true
+[2022.01.29-16.23.20:965][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Idle03Anim66773C374CDE2F14230A089D5986EC3A.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Idle03Anim.uasset'
+[2022.01.29-16.23.20:966][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DefendMaintainAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendMaintainAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:969][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DefendMaintainAnim03788912496F4F31EA308C8A4A0B38A0.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DefendMaintainAnim.uasset'
+[2022.01.29-16.23.20:970][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack04Anim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack04Anim.uasset" SILENT=true
+[2022.01.29-16.23.20:973][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack04AnimD5968E4241B57C0093430EB66762F4A6.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack04Anim.uasset'
+[2022.01.29-16.23.20:974][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpStartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpStartAnim.uasset" SILENT=true
+[2022.01.29-16.23.20:976][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpStartAnim46E72B5F4BCA7DD1A8D622A6E1AD8896.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpStartAnim.uasset'
+[2022.01.29-16.23.20:981][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleWalkBackwardAnim981453CA45B1CE6AA00E52AD18B642CB.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkBackwardAnim.uasset'
+[2022.01.29-16.23.20:982][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Meshes/WizardSM" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Meshes/WizardSM.uasset" SILENT=true
+[2022.01.29-16.23.21:012][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/WizardSM117190794ED38F8EEEE91880D500C55D.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Meshes/WizardSM.uasset'
+[2022.01.29-16.23.21:013][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/DieRecoverAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DieRecoverAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:016][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/DieRecoverAnimA0A7C9A44FB8E4B3B59D43ABC1BA3001.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/DieRecoverAnim.uasset'
+[2022.01.29-16.23.21:016][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/BattleWalkLeftAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkLeftAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:019][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleWalkLeftAnim7F32A6FF416CAB91CA55498EE5DAC89C.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkLeftAnim.uasset'
+[2022.01.29-16.23.21:020][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/BattleWalkRightAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkRightAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:022][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleWalkRightAnim9513A6E4477ED5E8FAED398F34630D0F.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleWalkRightAnim.uasset'
+[2022.01.29-16.23.21:023][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/VictoryMaintainAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/VictoryMaintainAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:026][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/VictoryMaintainAnim82389524463F3E21603E50941304A5BE.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/VictoryMaintainAnim.uasset'
+[2022.01.29-16.23.21:027][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/PotionDrinkAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/PotionDrinkAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:030][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/PotionDrinkAnim1E896301438B1FCFD224A68ED30E1135.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/PotionDrinkAnim.uasset'
+[2022.01.29-16.23.21:031][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/JumpUpAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpUpAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:033][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/JumpUpAnimD610770747314386FB0023B24D5B355C.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/JumpUpAnim.uasset'
+[2022.01.29-16.23.21:034][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack02StartAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack02StartAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:037][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack02StartAnim9BF1658047BE4A90EB7BCE8488C5EC52.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack02StartAnim.uasset'
+[2022.01.29-16.23.21:037][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/PickUpAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/PickUpAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:040][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/PickUpAnimD04D49F64A3ADB702E4CA990247EEA58.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/PickUpAnim.uasset'
+[2022.01.29-16.23.21:041][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/BattleRunForwardAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleRunForwardAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:044][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/BattleRunForwardAnim5571D1654E3EC2C48D2875B6EBDBBBF2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/BattleRunForwardAnim.uasset'
+[2022.01.29-16.23.21:045][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleWizardPolyart/Animations/Attack03MaintainAnim" FILE="F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack03MaintainAnim.uasset" SILENT=true
+[2022.01.29-16.23.21:048][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Attack03MaintainAnim1515067A4115A9D37B43D6B1319B3CBB.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/Attack03MaintainAnim.uasset'
+[2022.01.29-16.23.21:052][424]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/UE4_Mannequin_Skeleton_BlendSpac92CD210F409C864A7B32BDBAAE663DC4.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.uasset'
+[2022.01.29-16.23.21:204][424]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-16.23.21:204][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Idle01Anim.Idle01Anim
+[2022.01.29-16.23.21:204][424]LogContentValidation: Display: Validating SkeletalMesh /Game/BattleWizardPolyart/Meshes/WizardSM.WizardSM
+[2022.01.29-16.23.21:204][424]LogContentValidation: Display: Validating Skeleton /Game/BattleWizardPolyart/Meshes/UE4_Man_Skel_wizard.UE4_Man_Skel_wizard
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack03MaintainAnim.Attack03MaintainAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/PickUpAnim.PickUpAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack02StartAnim.Attack02StartAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpUpAnim.JumpUpAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/PotionDrinkAnim.PotionDrinkAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/VictoryMaintainAnim.VictoryMaintainAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkRightAnim.BattleWalkRightAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkLeftAnim.BattleWalkLeftAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DieRecoverAnim.DieRecoverAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkBackwardAnim.BattleWalkBackwardAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpStartAnim.JumpStartAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack04Anim.Attack04Anim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DefendMaintainAnim.DefendMaintainAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/WalkForwardAnim.WalkForwardAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack02MaintainAnim.Attack02MaintainAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAttackAnim.JumpAirAttackAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DefendHitAnim.DefendHitAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/VictoryStartAnim.VictoryStartAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DizzyAnim.DizzyAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/GetHitAnim.GetHitAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack03StartAnim.Attack03StartAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DieAnim.DieAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpUpAttackAnim.JumpUpAttackAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkForwardAnim.BattleWalkForwardAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/DefendStartAnim.DefendStartAnim
+[2022.01.29-16.23.21:205][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/InteractAnim.InteractAnim
+[2022.01.29-16.23.21:206][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpEndAnim.JumpEndAnim
+[2022.01.29-16.23.21:206][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAnim.JumpAirAnim
+[2022.01.29-16.23.21:206][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Attack01Anim.Attack01Anim
+[2022.01.29-16.23.21:206][424]LogContentValidation: Display: Validating BlendSpace /Game/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.UE4_Mannequin_Skeleton_BlendSpace
+[2022.01.29-16.23.21:206][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Idle02Anim.Idle02Anim
+[2022.01.29-16.23.21:206][424]LogContentValidation: Display: Validating AnimSequence /Game/BattleWizardPolyart/Animations/Idle03Anim.Idle03Anim
+[2022.01.29-16.23.39:048][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.01.29-16.23.46:270][442]LogSlate: Window 'Replace References?' being destroyed
+[2022.01.29-16.23.46:276][442]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with UE4_Man_Skel_wizard; and then delete them.
+
+Are you sure?
+[2022.01.29-16.23.46:276][442]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.29-16.23.46:290][442]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:290][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.46:387][442]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:387][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.46:422][442]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:423][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.46:435][442]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:435][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.46:551][442]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:551][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.46:619][442]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:619][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.46:668][442]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:668][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.46:688][442]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:688][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.46:702][442]LogSlate: Window 'UE4_Man_Skel_wizard' being destroyed
+[2022.01.29-16.23.46:741][442]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.23.46:741][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.23.49:060][442]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2022.01.29-16.23.52:073][442]LogSlate: Window 'Save Content' being destroyed
+[2022.01.29-16.23.52:112][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2022.01.29-16.23.52:173][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/SK_MannequinB89F30DA4A3CA28336C6A4BDEBDFD130.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.01.29-16.23.52:185][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin_Female" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" SILENT=true
+[2022.01.29-16.23.53:006][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/SK_Mannequin_Female4982152F4EB4C53EBE9C81BE4D7ACB72.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset'
+[2022.01.29-16.23.53:019][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2022.01.29-16.23.53:056][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPerson_AnimBP71C3F9EF46A9E8D334BA9690C12F13DE.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2022.01.29-16.23.53:069][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_IdleRun_2D" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" SILENT=true
+[2022.01.29-16.23.53:075][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPerson_IdleRun_2DDDDB1EED417BFCB5EC0C6C9F103A94C9.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2022.01.29-16.23.53:087][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_Jump" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" SILENT=true
+[2022.01.29-16.23.53:095][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPerson_JumpCCFF6B3947EF464774ED00A5C49B45F3.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2022.01.29-16.23.53:108][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonIdle" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonIdle.uasset" SILENT=true
+[2022.01.29-16.23.53:115][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonIdle4F0893FB4ED9414FF0453C8CD20AA8E0.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2022.01.29-16.23.53:127][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonJump_Loop" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" SILENT=true
+[2022.01.29-16.23.53:135][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonJump_Loop90EDB55F486BBC4FA68260A345BBEA0D.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2022.01.29-16.23.53:148][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonJump_Start" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" SILENT=true
+[2022.01.29-16.23.53:156][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonJump_Start8ACDC7A643A87FDFEF7B99ACAB7FC9C2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2022.01.29-16.23.53:168][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonRun" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonRun.uasset" SILENT=true
+[2022.01.29-16.23.53:175][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonRun99B84C8D44714529367094B30F2EABD0.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2022.01.29-16.23.53:187][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonWalk" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonWalk.uasset" SILENT=true
+[2022.01.29-16.23.53:195][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonWalk030235644D95F4FED30B3D94230129B1.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2022.01.29-16.23.53:196][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="F:/Unreal Projects/GGJ2022/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2022.01.29-16.23.53:197][442]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/UE4_Mannequin_Skeleton4698EFD64A179A74482892A7A88FD357.tmp' to 'F:/Unreal Projects/GGJ2022/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.01.29-16.23.53:221][442]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-16.23.53:221][442]LogContentValidation: Display: Validating BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2022.01.29-16.23.53:221][442]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2022.01.29-16.23.53:221][442]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2022.01.29-16.23.53:222][442]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2022.01.29-16.23.53:222][442]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2022.01.29-16.23.53:222][442]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2022.01.29-16.23.53:222][442]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2022.01.29-16.23.53:222][442]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2022.01.29-16.23.53:222][442]LogContentValidation: Display: Validating SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.01.29-16.23.53:222][442]LogContentValidation: Display: Validating SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin_Female.SK_Mannequin_Female
+[2022.01.29-16.23.53:222][442]LogContentValidation: Display: Validating ObjectRedirector /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.01.29-16.24.06:506][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.01.29-16.24.09:309][676]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.01.29-16.24.09:457][676]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.01.29-16.24.15:899][168]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-16.24.15:926][168]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.24.23:735][796]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.01.29-16.24.23:815][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.01.29-16.24.38:419][933]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.01.29-16.24.38:499][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.01.29-16.24.57:860][469]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-16.24.57:890][469]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.25.01:510][796]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.01.29-16.25.01:607][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.01.29-16.25.27:379][241]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2022.01.29-16.25.27:388][241]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.25.30:118][390]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2022.01.29-16.25.30:189][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.01.29-16.25.54:678][533]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-16.25.54:685][533]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.29-16.25.54:685][533]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2022.01.29-16.25.54:740][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.01.29-16.25.54:744][533]LogPlayLevel: PlayLevel: Blueprint regeneration took 59 ms (1 blueprints)
+[2022.01.29-16.25.54:744][533]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 29, 2022, 4:25:54 AM)
+[2022.01.29-16.25.54:744][533]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.29-16.25.54:756][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012146s)
+[2022.01.29-16.25.54:758][533]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.29-16.25.54:758][533]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2022.01.29-16.25.54:758][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013868s)
+[2022.01.29-16.25.54:792][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.01.29-16.25.54:792][533]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.29-16.25.54:792][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-16.25.54:792][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-16.25.54:792][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-16.25.54:792][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-16.25.54:792][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-16.25.54:792][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-16.25.54:792][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-16.25.54:792][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-16.25.54:793][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-16.25.54:793][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-16.25.54:793][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-16.25.54:793][533]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-16.25.54:799][533]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-16.25.54:799][533]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-16.25.54:811][533]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.29-16.25.54:811][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-16.25.54:811][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-16.25.54:811][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-16.25.54:812][533]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-16.25.54:812][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-16.25.54:812][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-16.25.54:813][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-16.25.54:813][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-16.25.54:813][533]LogInit: FAudioDevice initialized.
+[2022.01.29-16.25.54:813][533]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.01.29-16.25.54:822][533]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.29-16.25.54:825][533]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.01.29-10.25.54
+[2022.01.29-16.25.54:825][533]LogWorld: Bringing up level for play took: 0.001836
+[2022.01.29-16.25.54:825][533]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.01.29-16.25.54:828][533]PIE: Server logged in
+[2022.01.29-16.25.54:828][533]PIE: Play in editor total start time 0.145 seconds.
+[2022.01.29-16.26.19:392][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-16.26.19:393][470]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.29-16.26.19:393][470]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.26.19:394][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.26.19:412][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.29-16.26.19:417][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.26.19:440][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-16.26.19:440][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-16.26.19:441][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-16.26.19:443][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-16.26.19:447][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.01.29-16.26.19:472][471]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.01.29-16.26.37:208][188]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2022.01.29-16.26.37:212][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.29-16.26.37:589][188]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.01.29-16.27.58:341][375]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-16.27.58:349][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.29-16.27.58:349][375]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 29, 2022, 4:27:58 AM)
+[2022.01.29-16.27.58:373][375]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.29-16.27.58:387][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014716s)
+[2022.01.29-16.27.58:388][375]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.29-16.27.58:389][375]LogPlayLevel: PIE: World Init took: (0.001308s)
+[2022.01.29-16.27.58:389][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016208s)
+[2022.01.29-16.27.58:423][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.01.29-16.27.58:429][375]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.01.29-16.27.58:429][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-16.27.58:429][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-16.27.58:430][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-16.27.58:430][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-16.27.58:430][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-16.27.58:430][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-16.27.58:430][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-16.27.58:430][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-16.27.58:430][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-16.27.58:430][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-16.27.58:430][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-16.27.58:430][375]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-16.27.58:436][375]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-16.27.58:436][375]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-16.27.58:447][375]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.29-16.27.58:447][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-16.27.58:447][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-16.27.58:447][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-16.27.58:448][375]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-16.27.58:448][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-16.27.58:448][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-16.27.58:449][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-16.27.58:449][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-16.27.58:449][375]LogInit: FAudioDevice initialized.
+[2022.01.29-16.27.58:449][375]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.01.29-16.27.58:459][375]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.29-16.27.58:461][375]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.01.29-10.27.58
+[2022.01.29-16.27.58:462][375]LogWorld: Bringing up level for play took: 0.001727
+[2022.01.29-16.27.58:462][375]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.01.29-16.27.58:464][375]PIE: Server logged in
+[2022.01.29-16.27.58:465][375]PIE: Play in editor total start time 0.117 seconds.
+[2022.01.29-16.30.57:701][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-16.30.57:701][855]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.29-16.30.57:701][855]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-16.30.57:702][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.30.57:718][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.29-16.30.57:723][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-16.30.57:748][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-16.30.57:748][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-16.30.57:750][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-16.30.57:752][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-16.30.57:756][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.01.29-16.30.57:787][856]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.01.29-16.35.49:033][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.01.29-16.35.49:066][889]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonExampleMap_Auto2A47F5FD043DE60313A35D693537D7036.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.01.29-16.35.49:067][889]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.059
+[2022.01.29-16.35.49:067][889]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2022.01.29-16.35.49:067][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.01.29-16.35.49:079][889]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.01.29-16.35.49:079][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.01.29-16.35.49:109][889]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonCharacter_Auto2DAB4DFBF4BE899ED456010B486CF11CC.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2022.01.29-16.35.49:110][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace] ([1] browsable assets)...
+[2022.01.29-16.35.49:122][889]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.UE4_Mannequin_Skeleton_BlendSpace]
+[2022.01.29-16.35.49:122][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace]
+[2022.01.29-16.35.49:129][889]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/UE4_Mannequin_Skeleton_BlendSpacFF7288A942897163F101D184479806DE.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace_Auto2.uasset'
+[2022.01.29-16.35.49:129][889]LogFileHelpers: Auto-saving content packages took 0.062
+[2022.01.29-16.55.00:632][631]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2022.01.29-16.59.49:355][957]LogContentBrowser: Deferred new asset file creation: NewSoundSourceBus
+[2022.01.29-16.59.49:367][957]LogContentBrowser: Creating deferred item: NewSoundSourceBus
+[2022.01.29-16.59.50:280][ 67]LogContentBrowser: Attempting asset rename: NewSoundSourceBus -> NewSoundSourceBus
+[2022.01.29-16.59.50:286][ 67]LogContentBrowser: End creating deferred item NewSoundSourceBus
+[2022.01.29-16.59.51:087][154]LogAssetEditorSubsystem: Opening Asset editor for SoundSourceBus /Game/NewSoundSourceBus.NewSoundSourceBus
+[2022.01.29-17.00.04:967][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.01.29-17.00.06:327][759]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.29-17.00.06:392][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.01.29-17.00.32:241][789]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2022.01.29-17.00.32:252][789]LogContentBrowser: Creating deferred item: NewSoundClass
+[2022.01.29-17.00.33:257][910]LogContentBrowser: Attempting asset rename: NewSoundClass -> NewSoundClass
+[2022.01.29-17.00.33:258][910]LogContentBrowser: End creating deferred item NewSoundClass
+[2022.01.29-17.00.33:956][989]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/NewSoundClass.NewSoundClass
+[2022.01.29-17.00.45:066][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.01.29-17.00.46:399][285]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.29-17.00.46:477][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.01.29-17.00.56:349][439]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.29-17.00.56:374][439]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.29-17.01.04:519][416]LogContentBrowser: Attempting asset rename: NewFolder -> TonyF
+[2022.01.29-17.01.04:519][416]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.29-17.01.07:858][806]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.29-17.01.07:882][806]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.29-17.01.11:295][216]LogContentBrowser: Attempting asset rename: NewFolder -> DuanaD
+[2022.01.29-17.01.11:295][216]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.29-17.01.14:272][544]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.29-17.01.14:289][544]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.29-17.01.20:627][304]LogContentBrowser: Attempting asset rename: NewFolder -> LazerusR
+[2022.01.29-17.01.20:627][304]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.29-17.01.26:234][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.01.29-17.01.26:302][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.29-17.01.26:337][944]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonExampleMap1E16044D4D79974DD87083B21CC9739A.tmp' to 'F:/Unreal Projects/GGJ2022/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.01.29-17.01.26:351][944]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.079
+[2022.01.29-17.01.26:352][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="F:/Unreal Projects/GGJ2022/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2022.01.29-17.01.26:384][944]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonCharacterD9AD6D8A4C6B6D68130B8B838289CB7B.tmp' to 'F:/Unreal Projects/GGJ2022/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.01.29-17.01.26:387][944]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/UE4_Mannequin_Skeleton_BlendSpac9571EB144707C963BE2D69AD6B08C7AD.tmp' to 'F:/Unreal Projects/GGJ2022/Content/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.uasset'
+[2022.01.29-17.01.26:403][944]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-17.01.26:403][944]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.01.29-17.01.26:403][944]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.01.29-17.01.26:403][944]LogContentValidation: Display: Validating BlendSpace /Game/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_BlendSpace.UE4_Mannequin_Skeleton_BlendSpace
