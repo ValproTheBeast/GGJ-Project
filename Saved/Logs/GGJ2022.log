@@ -5156,3 +5156,1238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.30-19.39.44:282][422]LogFileHelpers: Loading map 'TheHollowDeck' took 0.394
 [2022.01.30-19.39.44:315][422]AssetCheck: New page: Asset Save: MainMenuWid
 [2022.01.30-19.39.44:315][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/TonyF/MainMenuWid.MainMenuWid
+[2022.01.30-19.41.30:232][173]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2022.01.30-19.44.06:026][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tonyf\Downloads\TheHollowDeckMM.jpg)
+[2022.01.30-19.44.06:049][637]LogTexture: Display: Building textures: TheHollowDeckMM (OODLE_AutoDXT, 1920X1080)
+[2022.01.30-19.44.06:111][637]LogTextureFormatOodle: Display: non-RDO encode 1920 x 1080 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.30-19.44.10:205][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DuanaD/TheHollowDeckMM" FILE="F:/Unreal Projects/GGJ2022/Content/DuanaD/TheHollowDeckMM.uasset" SILENT=true
+[2022.01.30-19.44.10:279][753]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/TheHollowDeckMMB5B675C04189F115BE925FA387A2B8D8.tmp' to 'F:/Unreal Projects/GGJ2022/Content/DuanaD/TheHollowDeckMM.uasset'
+[2022.01.30-19.44.10:297][753]AssetCheck: New page: Asset Save: TheHollowDeckMM
+[2022.01.30-19.44.10:297][753]LogContentValidation: Display: Validating Texture2D /Game/DuanaD/TheHollowDeckMM.TheHollowDeckMM
+[2022.01.30-19.44.28:401][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.01.30-19.44.28:440][538]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TonyF/MainMenu.MainMenu
+[2022.01.30-19.44.28:440][538]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-19.44.28:440][538]LightingResults: New page: Lighting Build
+[2022.01.30-19.44.28:440][538]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.01.30-19.44.28:487][538]LogWorld: UWorld::CleanupWorld for TheHollowDeck, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.44.28:488][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.44.28:489][538]MapCheck: New page: Map Check
+[2022.01.30-19.44.28:489][538]LightingResults: New page: Lighting Build
+[2022.01.30-19.44.28:521][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-19.44.28:528][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.01.30-19.44.28:529][538]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.01.30-19.44.28:630][538]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-19.44.28:630][538]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-19.44.28:675][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.01.30-19.44.28:691][538]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-19.44.28:691][538]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2022.01.30-19.44.28:691][538]LogFileHelpers: Loading map 'MainMenu' took 0.252
+[2022.01.30-19.46.08:983][124]LogSlate: Took 0.006413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.01.30-19.46.58:183][685]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.01.30-19.51.27:827][734]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TonyF/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.01.30-19.52.26:786][563]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.30-19.52.26:817][563]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.30-19.52.40:797][735]BlueprintLog: New page: Compile MainMenu
+[2022.01.30-19.52.40:867][735]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2022.01.30-19.52.48:716][593]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-19.52.48:728][593]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.30-19.52.48:730][593]LogPlayLevel: [PlayLevel] Compiling MainMenuWid before play...
+[2022.01.30-19.52.48:926][593]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2022.01.30-19.52.48:928][593]LogPlayLevel: PlayLevel: Blueprint regeneration took 200 ms (1 blueprints)
+[2022.01.30-19.52.48:928][593]PIE: New page: PIE session: MainMenu (Jan 30, 2022, 7:52:48 AM)
+[2022.01.30-19.52.48:978][593]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-19.52.48:980][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001780s)
+[2022.01.30-19.52.48:982][593]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-19.52.48:982][593]LogPlayLevel: PIE: World Init took: (0.001886s)
+[2022.01.30-19.52.48:982][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/MainMenu.MainMenu to /Game/TonyF/UEDPIE_0_MainMenu.MainMenu (0.003960s)
+[2022.01.30-19.52.49:027][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.01.30-19.52.49:027][593]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2022.01.30-19.52.49:027][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-19.52.49:027][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-19.52.49:027][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-19.52.49:027][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-19.52.49:027][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-19.52.49:027][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-19.52.49:027][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-19.52.49:027][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-19.52.49:028][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-19.52.49:028][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-19.52.49:028][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-19.52.49:028][593]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-19.52.49:033][593]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-19.52.49:033][593]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-19.52.49:043][593]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-19.52.49:043][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-19.52.49:043][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-19.52.49:043][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-19.52.49:043][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-19.52.49:043][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-19.52.49:043][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-19.52.49:044][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-19.52.49:044][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-19.52.49:044][593]LogInit: FAudioDevice initialized.
+[2022.01.30-19.52.49:044][593]LogAudio: Display: Audio Device (ID: 68) registered with world 'MainMenu'.
+[2022.01.30-19.52.49:067][593]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-19.52.49:068][593]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-13.52.49
+[2022.01.30-19.52.49:068][593]LogWorld: Bringing up level for play took: 0.000632
+[2022.01.30-19.52.49:068][593]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2022.01.30-19.52.49:071][593]PIE: Server logged in
+[2022.01.30-19.52.49:072][593]PIE: Play in editor total start time 0.344 seconds.
+[2022.01.30-19.53.00:650][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.53.00:650][965]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-19.53.00:650][965]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.53.00:650][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.53.00:657][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-19.53.00:665][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.53.00:709][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.53.00:709][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.53.00:710][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.53.00:718][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.01.30-19.53.00:739][966]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2022.01.30-19.55.28:762][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.01.30-19.55.28:764][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/MainMenu" FILE="F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/MainMenu_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.30-19.55.28:769][ 36]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/MainMenu_Auto72CA861344283C8A56B45A29959ECA67C.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/MainMenu_Auto7.umap'
+[2022.01.30-19.55.28:770][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TonyF/MainMenu' took 0.052
+[2022.01.30-19.55.28:770][ 36]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2022.01.30-19.55.28:770][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TonyF/MainMenuWid] ([2] browsable assets)...
+[2022.01.30-19.55.28:770][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/TonyF/MainMenuWid]
+[2022.01.30-19.55.28:770][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/MainMenuWid" FILE="F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/MainMenuWid_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.01.30-19.55.28:778][ 36]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/MainMenuWid_Auto7D0720EED48F427F79B3A72B856F562DB.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/MainMenuWid_Auto7.uasset'
+[2022.01.30-19.55.28:778][ 36]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.01.30-19.56.06:731][517]BlueprintLog: New page: Compile MainMenu
+[2022.01.30-19.56.06:815][517]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2022.01.30-19.56.11:336][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-19.56.11:342][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-19.56.11:343][ 21]PIE: New page: PIE session: MainMenu (Jan 30, 2022, 7:56:11 AM)
+[2022.01.30-19.56.11:343][ 21]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-19.56.11:344][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001280s)
+[2022.01.30-19.56.11:345][ 21]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-19.56.11:345][ 21]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2022.01.30-19.56.11:345][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/MainMenu.MainMenu to /Game/TonyF/UEDPIE_0_MainMenu.MainMenu (0.002649s)
+[2022.01.30-19.56.11:390][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.01.30-19.56.11:391][ 21]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2022.01.30-19.56.11:392][ 21]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-19.56.11:392][ 21]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-19.56.11:392][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-19.56.11:392][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-19.56.11:392][ 21]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-19.56.11:392][ 21]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-19.56.11:392][ 21]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-19.56.11:392][ 21]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-19.56.11:392][ 21]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-19.56.11:392][ 21]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-19.56.11:392][ 21]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-19.56.11:392][ 21]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-19.56.11:398][ 21]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-19.56.11:398][ 21]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-19.56.11:407][ 21]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-19.56.11:408][ 21]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-19.56.11:408][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-19.56.11:408][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-19.56.11:408][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-19.56.11:408][ 21]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-19.56.11:408][ 21]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-19.56.11:410][ 21]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-19.56.11:410][ 21]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-19.56.11:410][ 21]LogInit: FAudioDevice initialized.
+[2022.01.30-19.56.11:410][ 21]LogAudio: Display: Audio Device (ID: 69) registered with world 'MainMenu'.
+[2022.01.30-19.56.11:418][ 21]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-19.56.11:419][ 21]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-13.56.11
+[2022.01.30-19.56.11:419][ 21]LogWorld: Bringing up level for play took: 0.000350
+[2022.01.30-19.56.11:419][ 21]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2022.01.30-19.56.11:423][ 21]PIE: Server logged in
+[2022.01.30-19.56.11:424][ 21]PIE: Play in editor total start time 0.082 seconds.
+[2022.01.30-19.56.14:674][409]LogNet: Browse: /Game/TheHollowDeck/Map/TheHollowDeck
+[2022.01.30-19.56.14:674][409]LogLoad: LoadMap: /Game/TheHollowDeck/Map/TheHollowDeck
+[2022.01.30-19.56.14:674][409]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-19.56.14:675][409]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.56.14:675][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.56.14:734][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-19.56.14:739][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.01.30-19.56.14:807][409]LogAudio: Display: Audio Device (ID: 69) registered with world 'TheHollowDeck'.
+[2022.01.30-19.56.14:808][409]LogAIModule: Creating AISystem for world TheHollowDeck
+[2022.01.30-19.56.14:808][409]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-19.56.14:885][409]LogWorld: Bringing World /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck.TheHollowDeck up for play (max tick rate 0) at 2022.01.30-13.56.14
+[2022.01.30-19.56.14:885][409]LogWorld: Bringing up level for play took: 0.075790
+[2022.01.30-19.56.14:885][409]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-19.56.14:886][409]LogBlueprintUserMessages: [Health] 30
+[2022.01.30-19.56.14:888][409]LogLoad: Took 0.213598 seconds to LoadMap(/Game/TheHollowDeck/Map/TheHollowDeck)
+[2022.01.30-19.56.18:648][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.56.18:649][851]LogWorld: BeginTearingDown for /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck
+[2022.01.30-19.56.18:650][851]LogWorld: UWorld::CleanupWorld for TheHollowDeck, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.56.18:656][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.56.18:671][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-19.56.18:677][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.56.18:712][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.56.18:713][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.56.18:714][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.56.18:723][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.01.30-19.56.18:743][852]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2022.01.30-19.56.36:925][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/MainMenu" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-19.56.36:971][969]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.01.30-19.56.36:979][969]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/MainMenuDFAE1620406B3C05FBA9C18B1E595628.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenu.umap'
+[2022.01.30-19.56.36:993][969]LogFileHelpers: Saving map 'MainMenu' took 0.068
+[2022.01.30-19.56.37:009][969]AssetCheck: New page: Asset Save: MainMenu
+[2022.01.30-19.56.37:010][969]LogContentValidation: Display: Validating World /Game/TonyF/MainMenu.MainMenu
+[2022.01.30-19.56.39:043][181]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.01.30-19.56.39:060][181]LogContentBrowser: Creating deferred item: NewWorld
+[2022.01.30-19.56.47:935][244]LogContentBrowser: Attempting asset rename: NewWorld -> CreditsMenu
+[2022.01.30-19.56.47:937][244]LogContentBrowser: End creating deferred item NewWorld
+[2022.01.30-19.56.55:135][ 79]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.01.30-19.56.55:152][ 79]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.01.30-19.57.06:860][482]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> CreditsMenuWid
+[2022.01.30-19.57.06:864][482]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.01.30-19.57.11:657][ 39]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TonyF/CreditsMenuWid.CreditsMenuWid
+[2022.01.30-19.58.25:083][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tonyf\Downloads\TheHollowDeckCREDITS.jpg)
+[2022.01.30-19.58.25:097][863]LogTexture: Display: Building textures: TheHollowDeckCREDITS (OODLE_AutoDXT, 1920X1080)
+[2022.01.30-19.58.25:156][863]LogTextureFormatOodle: Display: non-RDO encode 1920 x 1080 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.30-19.58.29:427][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DuanaD/TheHollowDeckCREDITS" FILE="F:/Unreal Projects/GGJ2022/Content/DuanaD/TheHollowDeckCREDITS.uasset" SILENT=true
+[2022.01.30-19.58.29:489][ 16]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/TheHollowDeckCREDITS39A4EFB244F912A745ADECA29BCD9DF8.tmp' to 'F:/Unreal Projects/GGJ2022/Content/DuanaD/TheHollowDeckCREDITS.uasset'
+[2022.01.30-19.58.29:509][ 16]AssetCheck: New page: Asset Save: TheHollowDeckCREDITS
+[2022.01.30-19.58.29:509][ 16]LogContentValidation: Display: Validating Texture2D /Game/DuanaD/TheHollowDeckCREDITS.TheHollowDeckCREDITS
+[2022.01.30-19.58.52:233][190]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-19.58.52:241][190]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.30-19.58.52:242][190]LogPlayLevel: [PlayLevel] Compiling CreditsMenuWid before play...
+[2022.01.30-19.58.52:390][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2022.01.30-19.58.52:393][190]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2022.01.30-19.58.52:393][190]PIE: New page: PIE session: MainMenu (Jan 30, 2022, 7:58:52 AM)
+[2022.01.30-19.58.52:422][190]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-19.58.52:424][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001101s)
+[2022.01.30-19.58.52:424][190]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-19.58.52:425][190]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2022.01.30-19.58.52:425][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/MainMenu.MainMenu to /Game/TonyF/UEDPIE_0_MainMenu.MainMenu (0.002372s)
+[2022.01.30-19.58.52:470][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.01.30-19.58.52:470][190]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2022.01.30-19.58.52:470][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-19.58.52:470][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-19.58.52:470][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-19.58.52:470][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-19.58.52:470][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-19.58.52:470][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-19.58.52:470][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-19.58.52:470][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-19.58.52:470][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-19.58.52:471][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-19.58.52:471][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-19.58.52:471][190]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-19.58.52:476][190]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-19.58.52:476][190]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-19.58.52:484][190]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-19.58.52:484][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-19.58.52:484][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-19.58.52:484][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-19.58.52:484][190]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-19.58.52:484][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-19.58.52:484][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-19.58.52:486][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-19.58.52:486][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-19.58.52:486][190]LogInit: FAudioDevice initialized.
+[2022.01.30-19.58.52:486][190]LogAudio: Display: Audio Device (ID: 70) registered with world 'MainMenu'.
+[2022.01.30-19.58.52:492][190]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-19.58.52:493][190]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-13.58.52
+[2022.01.30-19.58.52:493][190]LogWorld: Bringing up level for play took: 0.000309
+[2022.01.30-19.58.52:493][190]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2022.01.30-19.58.52:497][190]PIE: Server logged in
+[2022.01.30-19.58.52:497][190]PIE: Play in editor total start time 0.257 seconds.
+[2022.01.30-19.58.54:854][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.58.54:854][425]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-19.58.54:855][425]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.58.54:855][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.58.54:867][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-19.58.54:873][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.58.54:916][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.58.54:916][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.58.54:917][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.58.54:924][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.01.30-19.58.54:945][426]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2022.01.30-19.59.01:140][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2022.01.30-19.59.04:119][ 22]LogSlate: Window 'Save Content' being destroyed
+[2022.01.30-19.59.04:153][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/CreditsMenu" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-19.59.04:200][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.01.30-19.59.04:201][ 22]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/CreditsMenu459A58E4471D5BD6BAB16088E49946ED.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap'
+[2022.01.30-19.59.04:202][ 22]LogFileHelpers: Saving map 'CreditsMenu' took 0.050
+[2022.01.30-19.59.04:202][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/CreditsMenuWid" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenuWid.uasset" SILENT=true
+[2022.01.30-19.59.04:206][ 22]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/CreditsMenuWid9987FD164ADDFB2ACDC5E89CF3365885.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenuWid.uasset'
+[2022.01.30-19.59.04:207][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/MainMenuWid" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenuWid.uasset" SILENT=true
+[2022.01.30-19.59.04:215][ 22]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/MainMenuWid71A8560E4EDBD3C3A9B4EB930DB6A6D4.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenuWid.uasset'
+[2022.01.30-19.59.04:251][ 22]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TonyF/CreditsMenu.CreditsMenu
+[2022.01.30-19.59.04:251][ 22]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-19.59.04:251][ 22]LightingResults: New page: Lighting Build
+[2022.01.30-19.59.04:251][ 22]LoadErrors: New page: Loading map: CreditsMenu.umap
+[2022.01.30-19.59.04:301][ 22]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.59.04:301][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.59.04:346][ 22]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.59.04:346][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.59.04:346][ 22]MapCheck: New page: Map Check
+[2022.01.30-19.59.04:346][ 22]LightingResults: New page: Lighting Build
+[2022.01.30-19.59.04:390][ 22]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-19.59.04:400][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2022.01.30-19.59.04:400][ 22]LogAudio: Display: Audio Device (ID: 1) registered with world 'CreditsMenu'.
+[2022.01.30-19.59.04:512][ 22]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-19.59.04:512][ 22]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-19.59.04:563][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2022.01.30-19.59.04:575][ 22]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-19.59.04:575][ 22]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2022.01.30-19.59.04:575][ 22]LogFileHelpers: Loading map 'CreditsMenu' took 0.324
+[2022.01.30-19.59.04:609][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-19.59.04:609][ 22]LogContentValidation: Display: Validating WidgetBlueprint /Game/TonyF/MainMenuWid.MainMenuWid
+[2022.01.30-19.59.04:610][ 22]LogContentValidation: Display: Validating WidgetBlueprint /Game/TonyF/CreditsMenuWid.CreditsMenuWid
+[2022.01.30-19.59.04:610][ 22]LogContentValidation: Display: Validating World /Game/TonyF/CreditsMenu.CreditsMenu
+[2022.01.30-19.59.05:622][120]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-19.59.05:629][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-19.59.05:629][120]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 7:59:05 AM)
+[2022.01.30-19.59.05:651][120]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-19.59.05:651][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000720s)
+[2022.01.30-19.59.05:653][120]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-19.59.05:653][120]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2022.01.30-19.59.05:653][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002072s)
+[2022.01.30-19.59.05:705][120]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2022.01.30-19.59.05:706][120]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2022.01.30-19.59.05:706][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-19.59.05:706][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-19.59.05:706][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-19.59.05:706][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-19.59.05:706][120]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-19.59.05:706][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-19.59.05:706][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-19.59.05:706][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-19.59.05:706][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-19.59.05:706][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-19.59.05:707][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-19.59.05:707][120]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-19.59.05:712][120]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-19.59.05:712][120]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-19.59.05:722][120]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-19.59.05:722][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-19.59.05:722][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-19.59.05:722][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-19.59.05:723][120]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-19.59.05:723][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-19.59.05:723][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-19.59.05:724][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-19.59.05:724][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-19.59.05:724][120]LogInit: FAudioDevice initialized.
+[2022.01.30-19.59.05:724][120]LogAudio: Display: Audio Device (ID: 71) registered with world 'CreditsMenu'.
+[2022.01.30-19.59.05:735][120]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-19.59.05:736][120]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-13.59.05
+[2022.01.30-19.59.05:736][120]LogWorld: Bringing up level for play took: 0.000274
+[2022.01.30-19.59.05:736][120]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2022.01.30-19.59.05:738][120]PIE: Server logged in
+[2022.01.30-19.59.05:739][120]PIE: Play in editor total start time 0.11 seconds.
+[2022.01.30-19.59.07:052][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.59.07:052][242]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-19.59.07:053][242]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.59.07:053][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.59.07:074][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-19.59.07:081][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.59.07:120][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-19.59.07:120][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.59.07:121][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.59.07:123][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.59.07:128][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.01.30-19.59.07:150][243]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2022.01.30-19.59.10:120][528]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TonyF/CreditsMenu.CreditsMenu:PersistentLevel.CreditsMenu
+[2022.01.30-19.59.35:746][290]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.30-19.59.35:782][290]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.30-20.00.33:464][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.00.33:472][ 93]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.30-20.00.33:473][ 93]LogPlayLevel: [PlayLevel] Compiling CreditsMenu before play...
+[2022.01.30-20.00.33:480][ 93]LogPlayLevel: [PlayLevel] Compiling CreditsMenuWid before play...
+[2022.01.30-20.00.33:681][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2022.01.30-20.00.33:684][ 93]LogPlayLevel: PlayLevel: Blueprint regeneration took 212 ms (2 blueprints)
+[2022.01.30-20.00.33:684][ 93]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 8:00:33 AM)
+[2022.01.30-20.00.33:685][ 93]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.00.33:686][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001323s)
+[2022.01.30-20.00.33:687][ 93]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.00.33:687][ 93]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2022.01.30-20.00.33:687][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002919s)
+[2022.01.30-20.00.33:753][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.01.30-20.00.33:754][ 93]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2022.01.30-20.00.33:754][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.00.33:754][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.00.33:754][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.00.33:754][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.00.33:754][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.00.33:754][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.00.33:754][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.00.33:754][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.00.33:755][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.00.33:755][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.00.33:755][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.00.33:755][ 93]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.00.33:762][ 93]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.00.33:763][ 93]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.00.33:778][ 93]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.00.33:778][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.00.33:779][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.00.33:779][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.00.33:779][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.00.33:779][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.00.33:779][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.00.33:781][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.00.33:781][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.00.33:781][ 93]LogInit: FAudioDevice initialized.
+[2022.01.30-20.00.33:781][ 93]LogAudio: Display: Audio Device (ID: 72) registered with world 'CreditsMenu'.
+[2022.01.30-20.00.33:793][ 93]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.00.33:794][ 93]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.00.33
+[2022.01.30-20.00.33:795][ 93]LogWorld: Bringing up level for play took: 0.000487
+[2022.01.30-20.00.33:795][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2022.01.30-20.00.33:798][ 93]PIE: Server logged in
+[2022.01.30-20.00.33:799][ 93]PIE: Play in editor total start time 0.328 seconds.
+[2022.01.30-20.00.36:256][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.00.36:256][267]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.00.36:256][267]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.00.36:256][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.00.36:268][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.00.36:278][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.00.36:335][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.00.36:335][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.00.36:337][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.00.36:345][267]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2022.01.30-20.00.36:375][268]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2022.01.30-20.00.42:751][867]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.00.42:758][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-20.00.42:759][867]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 8:00:42 AM)
+[2022.01.30-20.00.42:759][867]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.00.42:760][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001029s)
+[2022.01.30-20.00.42:761][867]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.00.42:761][867]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2022.01.30-20.00.42:761][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002336s)
+[2022.01.30-20.00.42:809][867]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.01.30-20.00.42:811][867]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2022.01.30-20.00.42:811][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.00.42:811][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.00.42:811][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.00.42:811][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.00.42:811][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.00.42:811][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.00.42:811][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.00.42:811][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.00.42:811][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.00.42:811][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.00.42:811][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.00.42:811][867]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.00.42:816][867]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.00.42:817][867]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.00.42:827][867]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.00.42:827][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.00.42:827][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.00.42:827][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.00.42:827][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.00.42:827][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.00.42:827][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.00.42:828][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.00.42:828][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.00.42:828][867]LogInit: FAudioDevice initialized.
+[2022.01.30-20.00.42:829][867]LogAudio: Display: Audio Device (ID: 73) registered with world 'CreditsMenu'.
+[2022.01.30-20.00.42:835][867]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.00.42:836][867]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.00.42
+[2022.01.30-20.00.42:836][867]LogWorld: Bringing up level for play took: 0.000312
+[2022.01.30-20.00.42:837][867]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2022.01.30-20.00.42:839][867]PIE: Server logged in
+[2022.01.30-20.00.42:839][867]PIE: Play in editor total start time 0.081 seconds.
+[2022.01.30-20.00.43:536][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.00.43:536][933]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.00.43:536][933]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.00.43:536][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.00.43:543][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.00.43:549][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.00.43:589][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.00.43:590][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.00.43:591][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.00.43:598][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.01.30-20.00.43:625][934]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2022.01.30-20.00.52:877][876]BlueprintLog: New page: Compile CreditsMenuWid
+[2022.01.30-20.00.52:931][876]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.01.30-20.00.54:775][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.00.54:783][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-20.00.54:783][ 27]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 8:00:54 AM)
+[2022.01.30-20.00.54:783][ 27]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.00.54:784][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001029s)
+[2022.01.30-20.00.54:785][ 27]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.00.54:785][ 27]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2022.01.30-20.00.54:785][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002260s)
+[2022.01.30-20.00.54:834][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2022.01.30-20.00.54:835][ 27]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2022.01.30-20.00.54:835][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.00.54:835][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.00.54:835][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.00.54:835][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.00.54:835][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.00.54:835][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.00.54:835][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.00.54:835][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.00.54:836][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.00.54:836][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.00.54:836][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.00.54:836][ 27]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.00.54:841][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.00.54:841][ 27]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.00.54:852][ 27]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.00.54:852][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.00.54:852][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.00.54:852][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.00.54:852][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.00.54:852][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.00.54:852][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.00.54:854][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.00.54:854][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.00.54:854][ 27]LogInit: FAudioDevice initialized.
+[2022.01.30-20.00.54:854][ 27]LogAudio: Display: Audio Device (ID: 74) registered with world 'CreditsMenu'.
+[2022.01.30-20.00.54:861][ 27]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.00.54:862][ 27]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.00.54
+[2022.01.30-20.00.54:862][ 27]LogWorld: Bringing up level for play took: 0.000291
+[2022.01.30-20.00.54:862][ 27]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2022.01.30-20.00.54:864][ 27]PIE: Server logged in
+[2022.01.30-20.00.54:865][ 27]PIE: Play in editor total start time 0.083 seconds.
+[2022.01.30-20.00.56:328][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.00.56:328][166]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.00.56:329][166]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.00.56:329][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.00.56:338][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.00.56:344][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.00.56:383][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.00.56:383][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.00.56:384][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.00.56:386][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.00.56:390][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.01.30-20.00.56:412][167]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2022.01.30-20.01.47:203][  9]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2022.01.30-20.01.48:254][  9]LogSlate: Window 'Save Content' being destroyed
+[2022.01.30-20.01.48:295][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/CreditsMenu" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-20.01.48:336][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.01.30-20.01.48:340][  9]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/CreditsMenu824BEE8A454568F912DBD7B01B7B9E2B.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap'
+[2022.01.30-20.01.48:352][  9]LogFileHelpers: Saving map 'CreditsMenu' took 0.057
+[2022.01.30-20.01.48:352][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/CreditsMenuWid" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenuWid.uasset" SILENT=true
+[2022.01.30-20.01.48:357][  9]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/CreditsMenuWid1215F7F742EFB41809097DB235CFB70E.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenuWid.uasset'
+[2022.01.30-20.01.48:392][  9]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TonyF/CreditsMenu.CreditsMenu
+[2022.01.30-20.01.48:392][  9]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-20.01.48:393][  9]LightingResults: New page: Lighting Build
+[2022.01.30-20.01.48:393][  9]LoadErrors: New page: Loading map: CreditsMenu.umap
+[2022.01.30-20.01.48:427][  9]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.01.48:427][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.01.48:473][  9]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.01.48:473][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.01.48:473][  9]MapCheck: New page: Map Check
+[2022.01.30-20.01.48:473][  9]LightingResults: New page: Lighting Build
+[2022.01.30-20.01.48:516][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.01.48:525][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.01.30-20.01.48:532][  9]LogAudio: Display: Audio Device (ID: 1) registered with world 'CreditsMenu'.
+[2022.01.30-20.01.48:533][  9]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.01.48:636][  9]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-20.01.48:689][  9]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2022.01.30-20.01.48:702][  9]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-20.01.48:702][  9]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2022.01.30-20.01.48:702][  9]LogFileHelpers: Loading map 'CreditsMenu' took 0.309
+[2022.01.30-20.01.48:736][  9]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-20.01.48:737][  9]LogContentValidation: Display: Validating WidgetBlueprint /Game/TonyF/CreditsMenuWid.CreditsMenuWid
+[2022.01.30-20.01.48:737][  9]LogContentValidation: Display: Validating World /Game/TonyF/CreditsMenu.CreditsMenu
+[2022.01.30-20.01.52:091][325]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TonyF/CreditsMenu.CreditsMenu:PersistentLevel.CreditsMenu
+[2022.01.30-20.02.20:760][235]BlueprintLog: New page: Compile CreditsMenu
+[2022.01.30-20.02.20:840][235]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.01.30-20.02.25:496][757]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.02.25:503][757]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.30-20.02.25:506][757]LogPlayLevel: [PlayLevel] Compiling CreditsMenuWid before play...
+[2022.01.30-20.02.25:639][757]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2022.01.30-20.02.25:640][757]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2022.01.30-20.02.25:640][757]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 8:02:25 AM)
+[2022.01.30-20.02.25:640][757]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.02.25:641][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001195s)
+[2022.01.30-20.02.25:642][757]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.02.25:642][757]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2022.01.30-20.02.25:642][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002698s)
+[2022.01.30-20.02.25:692][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.01.30-20.02.25:693][757]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2022.01.30-20.02.25:693][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.02.25:693][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.02.25:693][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.02.25:693][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.02.25:693][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.02.25:693][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.02.25:693][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.02.25:693][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.02.25:693][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.02.25:693][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.02.25:693][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.02.25:693][757]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.02.25:699][757]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.02.25:699][757]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.02.25:709][757]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.02.25:710][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.02.25:710][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.02.25:710][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.02.25:710][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.02.25:710][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.02.25:710][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.02.25:711][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.02.25:711][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.02.25:711][757]LogInit: FAudioDevice initialized.
+[2022.01.30-20.02.25:712][757]LogAudio: Display: Audio Device (ID: 75) registered with world 'CreditsMenu'.
+[2022.01.30-20.02.25:726][757]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.02.25:726][757]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.02.25
+[2022.01.30-20.02.25:727][757]LogWorld: Bringing up level for play took: 0.000316
+[2022.01.30-20.02.25:727][757]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2022.01.30-20.02.25:730][757]PIE: Server logged in
+[2022.01.30-20.02.25:731][757]PIE: Play in editor total start time 0.229 seconds.
+[2022.01.30-20.02.36:550][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.02.36:550][845]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.02.36:550][845]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.02.36:550][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.02.36:562][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.02.36:569][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.02.36:614][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.02.36:614][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.02.36:615][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.02.36:623][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.01.30-20.02.36:650][846]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2022.01.30-20.03.24:939][305]BlueprintLog: New page: Compile CreditsMenuWid
+[2022.01.30-20.03.24:996][305]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2022.01.30-20.03.26:794][447]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.03.26:801][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-20.03.26:802][447]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 8:03:26 AM)
+[2022.01.30-20.03.26:802][447]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.03.26:803][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
+[2022.01.30-20.03.26:804][447]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.03.26:804][447]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2022.01.30-20.03.26:804][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002663s)
+[2022.01.30-20.03.26:857][447]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2022.01.30-20.03.26:858][447]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2022.01.30-20.03.26:858][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.03.26:859][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.03.26:859][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.03.26:859][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.03.26:859][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.03.26:859][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.03.26:859][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.03.26:859][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.03.26:859][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.03.26:859][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.03.26:859][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.03.26:859][447]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.03.26:864][447]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.03.26:864][447]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.03.26:875][447]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.03.26:876][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.03.26:876][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.03.26:876][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.03.26:876][447]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.03.26:876][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.03.26:876][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.03.26:878][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.03.26:878][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.03.26:878][447]LogInit: FAudioDevice initialized.
+[2022.01.30-20.03.26:878][447]LogAudio: Display: Audio Device (ID: 76) registered with world 'CreditsMenu'.
+[2022.01.30-20.03.26:889][447]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.03.26:890][447]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.03.26
+[2022.01.30-20.03.26:890][447]LogWorld: Bringing up level for play took: 0.000360
+[2022.01.30-20.03.26:890][447]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2022.01.30-20.03.26:893][447]PIE: Server logged in
+[2022.01.30-20.03.26:894][447]PIE: Play in editor total start time 0.094 seconds.
+[2022.01.30-20.03.36:032][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.03.36:032][276]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.03.36:032][276]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.03.36:032][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.03.36:047][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.03.36:056][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.03.36:115][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.03.36:115][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.03.36:117][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.03.36:126][276]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2022.01.30-20.03.36:158][277]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2022.01.30-20.03.41:916][763]BlueprintLog: New page: Compile CreditsMenu
+[2022.01.30-20.03.42:028][763]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2022.01.30-20.03.46:558][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.01.30-20.03.46:598][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/CreditsMenu" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-20.03.46:648][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.01.30-20.03.46:653][147]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/CreditsMenu82ED58C746E50764D769A6BE488FA167.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap'
+[2022.01.30-20.03.46:667][147]LogFileHelpers: Saving map 'CreditsMenu' took 0.069
+[2022.01.30-20.03.46:667][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/CreditsMenuWid" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenuWid.uasset" SILENT=true
+[2022.01.30-20.03.46:672][147]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/CreditsMenuWid953702C44D4B47FEEF043A8F1FDE88EF.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenuWid.uasset'
+[2022.01.30-20.03.46:694][147]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-20.03.46:694][147]LogContentValidation: Display: Validating WidgetBlueprint /Game/TonyF/CreditsMenuWid.CreditsMenuWid
+[2022.01.30-20.03.46:694][147]LogContentValidation: Display: Validating World /Game/TonyF/CreditsMenu.CreditsMenu
+[2022.01.30-20.04.35:825][323]BlueprintLog: New page: Compile CreditsMenuWid
+[2022.01.30-20.04.35:933][323]LogUObjectHash: Compacting FUObjectHashTables data took   8.85ms
+[2022.01.30-20.04.41:768][974]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.04.41:776][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-20.04.41:776][974]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 8:04:41 AM)
+[2022.01.30-20.04.41:813][974]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.04.41:814][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2022.01.30-20.04.41:815][974]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.04.41:816][974]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2022.01.30-20.04.41:816][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002600s)
+[2022.01.30-20.04.41:867][974]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2022.01.30-20.04.41:868][974]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2022.01.30-20.04.41:868][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.04.41:868][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.04.41:868][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.04.41:868][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.04.41:868][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.04.41:868][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.04.41:868][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.04.41:868][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.04.41:869][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.04.41:869][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.04.41:869][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.04.41:869][974]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.04.41:874][974]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.04.41:874][974]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.04.41:885][974]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.04.41:885][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.04.41:885][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.04.41:885][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.04.41:886][974]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.04.41:886][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.04.41:886][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.04.41:887][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.04.41:887][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.04.41:887][974]LogInit: FAudioDevice initialized.
+[2022.01.30-20.04.41:887][974]LogAudio: Display: Audio Device (ID: 77) registered with world 'CreditsMenu'.
+[2022.01.30-20.04.41:904][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.04.41:906][974]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.04.41
+[2022.01.30-20.04.41:906][974]LogWorld: Bringing up level for play took: 0.000590
+[2022.01.30-20.04.41:906][974]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2022.01.30-20.04.41:910][974]PIE: Server logged in
+[2022.01.30-20.04.41:911][974]PIE: Play in editor total start time 0.136 seconds.
+[2022.01.30-20.04.44:129][225]LogNet: Browse: /Game/TonyF/MainMenu
+[2022.01.30-20.04.44:129][225]LogLoad: LoadMap: /Game/TonyF/MainMenu
+[2022.01.30-20.04.44:129][225]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.04.44:129][225]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.04.44:129][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.04.44:215][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.04.44:220][225]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.01.30-20.04.44:227][225]LogAudio: Display: Audio Device (ID: 77) registered with world 'MainMenu'.
+[2022.01.30-20.04.44:228][225]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.04.44:228][225]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.04.44:229][225]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-14.04.44
+[2022.01.30-20.04.44:229][225]LogWorld: Bringing up level for play took: 0.000558
+[2022.01.30-20.04.44:229][225]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.04.44:232][225]LogLoad: Took 0.102249 seconds to LoadMap(/Game/TonyF/MainMenu)
+[2022.01.30-20.04.50:203][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.04.50:204][926]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.04.50:204][926]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.04.50:204][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.04.50:212][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.04.50:218][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.04.50:263][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.04.50:263][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.04.50:264][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.04.50:267][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.04.50:272][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.01.30-20.04.50:293][927]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2022.01.30-20.04.55:552][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.01.30-20.04.57:365][496]LogSlate: Window 'Save Content' being destroyed
+[2022.01.30-20.04.57:389][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/CreditsMenuWid" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenuWid.uasset" SILENT=true
+[2022.01.30-20.04.57:394][496]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/CreditsMenuWid5A44E65940DDE9F361B2FE9C3392972F.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenuWid.uasset'
+[2022.01.30-20.04.57:428][496]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TonyF/MainMenu.MainMenu
+[2022.01.30-20.04.57:428][496]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-20.04.57:428][496]LightingResults: New page: Lighting Build
+[2022.01.30-20.04.57:428][496]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.01.30-20.04.57:473][496]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.04.57:473][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.04.57:515][496]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.04.57:516][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.04.57:516][496]MapCheck: New page: Map Check
+[2022.01.30-20.04.57:516][496]LightingResults: New page: Lighting Build
+[2022.01.30-20.04.57:556][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.04.57:564][496]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.01.30-20.04.57:565][496]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.01.30-20.04.57:682][496]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-20.04.57:682][496]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.04.57:737][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.01.30-20.04.57:750][496]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-20.04.57:750][496]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.156ms to complete.
+[2022.01.30-20.04.57:750][496]LogFileHelpers: Loading map 'MainMenu' took 0.323
+[2022.01.30-20.04.57:788][496]AssetCheck: New page: Asset Save: CreditsMenuWid
+[2022.01.30-20.04.57:788][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/TonyF/CreditsMenuWid.CreditsMenuWid
+[2022.01.30-20.05.01:809][875]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TonyF/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.01.30-20.05.15:100][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.01.30-20.05.15:128][130]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TonyF/CreditsMenu.CreditsMenu
+[2022.01.30-20.05.15:128][130]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-20.05.15:128][130]LightingResults: New page: Lighting Build
+[2022.01.30-20.05.15:128][130]LoadErrors: New page: Loading map: CreditsMenu.umap
+[2022.01.30-20.05.15:173][130]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.05.15:174][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.05.15:220][130]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.05.15:220][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.05.15:220][130]MapCheck: New page: Map Check
+[2022.01.30-20.05.15:220][130]LightingResults: New page: Lighting Build
+[2022.01.30-20.05.15:263][130]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.05.15:271][130]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.01.30-20.05.15:271][130]LogAudio: Display: Audio Device (ID: 1) registered with world 'CreditsMenu'.
+[2022.01.30-20.05.15:378][130]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-20.05.15:378][130]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.05.15:428][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.01.30-20.05.15:440][130]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-20.05.15:440][130]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2022.01.30-20.05.15:440][130]LogFileHelpers: Loading map 'CreditsMenu' took 0.313
+[2022.01.30-20.05.16:500][239]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.05.16:507][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-20.05.16:507][239]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 8:05:16 AM)
+[2022.01.30-20.05.16:544][239]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.05.16:545][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001033s)
+[2022.01.30-20.05.16:546][239]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.05.16:546][239]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2022.01.30-20.05.16:546][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002189s)
+[2022.01.30-20.05.16:590][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.01.30-20.05.16:591][239]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2022.01.30-20.05.16:591][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.05.16:591][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.05.16:591][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.05.16:591][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.05.16:591][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.05.16:591][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.05.16:591][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.05.16:591][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.05.16:592][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.05.16:592][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.05.16:592][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.05.16:592][239]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.05.16:597][239]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.05.16:597][239]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.05.16:607][239]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.05.16:607][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.05.16:607][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.05.16:607][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.05.16:607][239]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.05.16:607][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.05.16:607][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.05.16:609][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.05.16:609][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.05.16:609][239]LogInit: FAudioDevice initialized.
+[2022.01.30-20.05.16:609][239]LogAudio: Display: Audio Device (ID: 78) registered with world 'CreditsMenu'.
+[2022.01.30-20.05.16:616][239]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.05.16:617][239]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.05.16
+[2022.01.30-20.05.16:618][239]LogWorld: Bringing up level for play took: 0.000324
+[2022.01.30-20.05.16:618][239]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2022.01.30-20.05.16:621][239]PIE: Server logged in
+[2022.01.30-20.05.16:622][239]PIE: Play in editor total start time 0.116 seconds.
+[2022.01.30-20.05.17:359][326]LogNet: Browse: /Game/TonyF/MainMenu
+[2022.01.30-20.05.17:359][326]LogLoad: LoadMap: /Game/TonyF/MainMenu
+[2022.01.30-20.05.17:359][326]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.05.17:360][326]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.05.17:360][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.05.17:435][326]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.05.17:440][326]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.01.30-20.05.17:445][326]LogAudio: Display: Audio Device (ID: 78) registered with world 'MainMenu'.
+[2022.01.30-20.05.17:446][326]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.05.17:446][326]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.05.17:448][326]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-14.05.17
+[2022.01.30-20.05.17:448][326]LogWorld: Bringing up level for play took: 0.000641
+[2022.01.30-20.05.17:448][326]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.05.17:449][326]LogLoad: Took 0.089954 seconds to LoadMap(/Game/TonyF/MainMenu)
+[2022.01.30-20.05.21:585][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.05.21:585][812]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.05.21:585][812]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.05.21:586][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.05.21:597][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.05.21:604][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.05.21:639][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.05.21:639][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.05.21:641][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.05.21:647][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.01.30-20.05.21:665][813]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2022.01.30-20.05.48:029][565]LogContentBrowser: Attempting asset rename: CreditsMenu -> CreditsMenu
+[2022.01.30-20.05.56:944][609]BlueprintLog: New page: Compile MainMenuWid
+[2022.01.30-20.05.56:999][609]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2022.01.30-20.06.00:433][959]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2022.01.30-20.06.01:645][959]LogSlate: Window 'Save Content' being destroyed
+[2022.01.30-20.06.01:682][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/MainMenuWid" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenuWid.uasset" SILENT=true
+[2022.01.30-20.06.01:691][959]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/MainMenuWid143C1AE14ABB5A7B03D771B3C7E837CB.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenuWid.uasset'
+[2022.01.30-20.06.01:730][959]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TonyF/CreditsMenu.CreditsMenu
+[2022.01.30-20.06.01:730][959]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/CreditsMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-20.06.01:730][959]LightingResults: New page: Lighting Build
+[2022.01.30-20.06.01:730][959]LoadErrors: New page: Loading map: CreditsMenu.umap
+[2022.01.30-20.06.01:767][959]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.01:768][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.01:768][959]MapCheck: New page: Map Check
+[2022.01.30-20.06.01:768][959]LightingResults: New page: Lighting Build
+[2022.01.30-20.06.01:822][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.01:830][959]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2022.01.30-20.06.01:839][959]LogAudio: Display: Audio Device (ID: 1) registered with world 'CreditsMenu'.
+[2022.01.30-20.06.01:840][959]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.06.01:984][959]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-20.06.02:046][959]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2022.01.30-20.06.02:062][959]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-20.06.02:063][959]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2022.01.30-20.06.02:063][959]LogFileHelpers: Loading map 'CreditsMenu' took 0.333
+[2022.01.30-20.06.02:093][959]AssetCheck: New page: Asset Save: MainMenuWid
+[2022.01.30-20.06.02:093][959]LogContentValidation: Display: Validating WidgetBlueprint /Game/TonyF/MainMenuWid.MainMenuWid
+[2022.01.30-20.06.02:992][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.06.03:002][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-20.06.03:002][ 47]PIE: New page: PIE session: CreditsMenu (Jan 30, 2022, 8:06:03 AM)
+[2022.01.30-20.06.03:025][ 47]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.06.03:027][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001317s)
+[2022.01.30-20.06.03:028][ 47]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.06.03:028][ 47]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2022.01.30-20.06.03:028][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002847s)
+[2022.01.30-20.06.03:090][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.01.30-20.06.03:091][ 47]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2022.01.30-20.06.03:091][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.06.03:091][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.06.03:091][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.06.03:091][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.06.03:091][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.06.03:091][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.06.03:091][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.06.03:091][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.06.03:092][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.06.03:092][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.06.03:092][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.06.03:092][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.06.03:098][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.06.03:098][ 47]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.06.03:111][ 47]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.06.03:112][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.06.03:112][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.06.03:112][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.06.03:112][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.06.03:112][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.06.03:112][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.06.03:114][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.06.03:114][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.06.03:114][ 47]LogInit: FAudioDevice initialized.
+[2022.01.30-20.06.03:114][ 47]LogAudio: Display: Audio Device (ID: 79) registered with world 'CreditsMenu'.
+[2022.01.30-20.06.03:125][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.06.03:126][ 47]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.06.03
+[2022.01.30-20.06.03:126][ 47]LogWorld: Bringing up level for play took: 0.000427
+[2022.01.30-20.06.03:126][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2022.01.30-20.06.03:130][ 47]PIE: Server logged in
+[2022.01.30-20.06.03:131][ 47]PIE: Play in editor total start time 0.13 seconds.
+[2022.01.30-20.06.04:808][206]LogNet: Browse: /Game/TonyF/MainMenu
+[2022.01.30-20.06.04:809][206]LogLoad: LoadMap: /Game/TonyF/MainMenu
+[2022.01.30-20.06.04:809][206]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.06.04:809][206]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.04:809][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.04:891][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.04:898][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2022.01.30-20.06.04:906][206]LogAudio: Display: Audio Device (ID: 79) registered with world 'MainMenu'.
+[2022.01.30-20.06.04:908][206]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.06.04:908][206]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.06.04:909][206]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-14.06.04
+[2022.01.30-20.06.04:909][206]LogWorld: Bringing up level for play took: 0.000877
+[2022.01.30-20.06.04:911][206]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.06.04:911][206]LogLoad: Took 0.103301 seconds to LoadMap(/Game/TonyF/MainMenu)
+[2022.01.30-20.06.05:941][305]LogNet: Browse: /Game/TonyF/CreditsMenu
+[2022.01.30-20.06.05:941][305]LogLoad: LoadMap: /Game/TonyF/CreditsMenu
+[2022.01.30-20.06.05:941][305]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.06.05:942][305]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.05:942][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.06:021][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.06:027][305]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.01.30-20.06.06:028][305]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.06.06:029][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001399s)
+[2022.01.30-20.06.06:030][305]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.06.06:031][305]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2022.01.30-20.06.06:031][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.003053s)
+[2022.01.30-20.06.06:031][305]LogAudio: Display: Audio Device (ID: 79) registered with world 'CreditsMenu'.
+[2022.01.30-20.06.06:031][305]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.06.06:032][305]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.06.06
+[2022.01.30-20.06.06:032][305]LogWorld: Bringing up level for play took: 0.000558
+[2022.01.30-20.06.06:033][305]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.06.06:035][305]LogLoad: Took 0.094018 seconds to LoadMap(/Game/TonyF/UEDPIE_0_CreditsMenu)
+[2022.01.30-20.06.06:448][345]LogNet: Browse: /Game/TonyF/MainMenu
+[2022.01.30-20.06.06:449][345]LogLoad: LoadMap: /Game/TonyF/MainMenu
+[2022.01.30-20.06.06:449][345]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.06.06:449][345]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.06:449][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.06:530][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.06:535][345]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.01.30-20.06.06:540][345]LogAudio: Display: Audio Device (ID: 79) registered with world 'MainMenu'.
+[2022.01.30-20.06.06:541][345]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.06.06:541][345]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.06.06:542][345]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-14.06.06
+[2022.01.30-20.06.06:543][345]LogWorld: Bringing up level for play took: 0.000518
+[2022.01.30-20.06.06:543][345]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.06.06:544][345]LogLoad: Took 0.096483 seconds to LoadMap(/Game/TonyF/MainMenu)
+[2022.01.30-20.06.07:279][431]LogNet: Browse: /Game/TonyF/CreditsMenu
+[2022.01.30-20.06.07:279][431]LogLoad: LoadMap: /Game/TonyF/CreditsMenu
+[2022.01.30-20.06.07:279][431]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.06.07:280][431]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.07:280][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.07:355][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.07:359][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.01.30-20.06.07:360][431]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.06.07:361][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000981s)
+[2022.01.30-20.06.07:362][431]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.06.07:362][431]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2022.01.30-20.06.07:362][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/CreditsMenu.CreditsMenu to /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu (0.002116s)
+[2022.01.30-20.06.07:362][431]LogAudio: Display: Audio Device (ID: 79) registered with world 'CreditsMenu'.
+[2022.01.30-20.06.07:362][431]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.06.07:363][431]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.06.07
+[2022.01.30-20.06.07:363][431]LogWorld: Bringing up level for play took: 0.000275
+[2022.01.30-20.06.07:364][431]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.06.07:365][431]LogLoad: Took 0.085309 seconds to LoadMap(/Game/TonyF/UEDPIE_0_CreditsMenu)
+[2022.01.30-20.06.08:780][599]LogNet: Browse: /Game/TonyF/MainMenu
+[2022.01.30-20.06.08:780][599]LogLoad: LoadMap: /Game/TonyF/MainMenu
+[2022.01.30-20.06.08:780][599]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.06.08:780][599]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.08:780][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.08:857][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.08:861][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.01.30-20.06.08:867][599]LogAudio: Display: Audio Device (ID: 79) registered with world 'MainMenu'.
+[2022.01.30-20.06.08:868][599]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.06.08:868][599]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.06.08:869][599]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-14.06.08
+[2022.01.30-20.06.08:869][599]LogWorld: Bringing up level for play took: 0.000494
+[2022.01.30-20.06.08:870][599]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.06.08:871][599]LogLoad: Took 0.090917 seconds to LoadMap(/Game/TonyF/MainMenu)
+[2022.01.30-20.06.15:731][419]LogNet: Browse: /Game/TheHollowDeck/Map/TheHollowDeck
+[2022.01.30-20.06.15:731][419]LogLoad: LoadMap: /Game/TheHollowDeck/Map/TheHollowDeck
+[2022.01.30-20.06.15:731][419]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.06.15:731][419]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.15:731][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.15:818][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.15:823][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.01.30-20.06.15:886][419]LogAudio: Display: Audio Device (ID: 79) registered with world 'TheHollowDeck'.
+[2022.01.30-20.06.15:887][419]LogAIModule: Creating AISystem for world TheHollowDeck
+[2022.01.30-20.06.15:888][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.06.15:965][419]LogWorld: Bringing World /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck.TheHollowDeck up for play (max tick rate 0) at 2022.01.30-14.06.15
+[2022.01.30-20.06.15:965][419]LogWorld: Bringing up level for play took: 0.076821
+[2022.01.30-20.06.15:966][419]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.06.15:967][419]LogBlueprintUserMessages: [Health] 30
+[2022.01.30-20.06.15:968][419]LogLoad: Took 0.236440 seconds to LoadMap(/Game/TheHollowDeck/Map/TheHollowDeck)
+[2022.01.30-20.06.19:179][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.06.19:179][756]LogWorld: BeginTearingDown for /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck
+[2022.01.30-20.06.19:181][756]LogWorld: UWorld::CleanupWorld for TheHollowDeck, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.19:186][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.19:202][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.06.19:213][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.19:251][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.19:254][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.06.19:255][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.06.19:257][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.06.19:263][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.01.30-20.06.19:287][757]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2022.01.30-20.06.27:698][730]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.01.30-20.06.27:864][730]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TheHollowDeck/Map/TheHollowDeck.TheHollowDeck
+[2022.01.30-20.06.27:865][730]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TheHollowDeck/Map/TheHollowDeck.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-20.06.27:865][730]LightingResults: New page: Lighting Build
+[2022.01.30-20.06.27:865][730]LoadErrors: New page: Loading map: TheHollowDeck.umap
+[2022.01.30-20.06.27:888][730]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.06.27:888][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.06.27:888][730]MapCheck: New page: Map Check
+[2022.01.30-20.06.27:888][730]LightingResults: New page: Lighting Build
+[2022.01.30-20.06.27:932][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.06.27:938][730]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.01.30-20.06.27:939][730]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheHollowDeck'.
+[2022.01.30-20.06.28:164][730]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-20.06.28:164][730]LogAIModule: Creating AISystem for world TheHollowDeck
+[2022.01.30-20.06.28:217][730]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.01.30-20.06.28:228][730]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-20.06.28:228][730]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2022.01.30-20.06.28:228][730]LogFileHelpers: Loading map 'TheHollowDeck' took 0.364
+[2022.01.30-20.06.34:885][451]LogEditorViewport: Clicking on Actor (LMB): BP_SpawnPlatform_C (BP_SpawnPlatform2)
+[2022.01.30-20.06.35:939][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnviroTube_Section)
+[2022.01.30-20.06.36:659][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnviroTube_Section)
+[2022.01.30-20.06.38:511][802]LogEditorViewport: Clicking on Actor (LMB): TriggerCapsule (TriggerCapsule3)
+[2022.01.30-20.06.44:161][303]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TheHollowDeck/Map/TheHollowDeck.TheHollowDeck:PersistentLevel.TheHollowDeck
+[2022.01.30-20.07.01:709][916]BlueprintLog: New page: Compile TheHollowDeck
+[2022.01.30-20.07.01:841][916]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2022.01.30-20.07.05:436][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.01.30-20.07.05:469][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheHollowDeck/Map/TheHollowDeck" FILE="F:/Unreal Projects/GGJ2022/Content/TheHollowDeck/Map/TheHollowDeck.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-20.07.05:529][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.01.30-20.07.05:717][163]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/TheHollowDeck9D3414064A3C45B83B9090AC3B5C203F.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TheHollowDeck/Map/TheHollowDeck.umap'
+[2022.01.30-20.07.05:731][163]LogFileHelpers: Saving map 'TheHollowDeck' took 0.264
+[2022.01.30-20.07.05:755][163]AssetCheck: New page: Asset Save: TheHollowDeck
+[2022.01.30-20.07.05:756][163]LogContentValidation: Display: Validating World /Game/TheHollowDeck/Map/TheHollowDeck.TheHollowDeck
+[2022.01.30-20.07.11:079][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.01.30-20.07.11:111][629]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TonyF/MainMenu.MainMenu
+[2022.01.30-20.07.11:111][629]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-20.07.11:111][629]LightingResults: New page: Lighting Build
+[2022.01.30-20.07.11:111][629]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.01.30-20.07.11:138][629]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.07.11:138][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.07.11:189][629]LogWorld: UWorld::CleanupWorld for TheHollowDeck, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.07.11:189][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.07.11:189][629]MapCheck: New page: Map Check
+[2022.01.30-20.07.11:189][629]LightingResults: New page: Lighting Build
+[2022.01.30-20.07.11:237][629]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.07.11:249][629]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2022.01.30-20.07.11:249][629]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.01.30-20.07.11:365][629]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-20.07.11:365][629]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.07.11:416][629]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.01.30-20.07.11:428][629]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-20.07.11:429][629]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2022.01.30-20.07.11:429][629]LogFileHelpers: Loading map 'MainMenu' took 0.317
+[2022.01.30-20.07.12:499][747]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-20.07.12:506][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-20.07.12:506][747]PIE: New page: PIE session: MainMenu (Jan 30, 2022, 8:07:12 AM)
+[2022.01.30-20.07.12:538][747]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.07.12:539][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001030s)
+[2022.01.30-20.07.12:540][747]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.07.12:540][747]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2022.01.30-20.07.12:540][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/MainMenu.MainMenu to /Game/TonyF/UEDPIE_0_MainMenu.MainMenu (0.002221s)
+[2022.01.30-20.07.12:584][747]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.01.30-20.07.12:586][747]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2022.01.30-20.07.12:586][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-20.07.12:586][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-20.07.12:586][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-20.07.12:586][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-20.07.12:586][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-20.07.12:586][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-20.07.12:586][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-20.07.12:586][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-20.07.12:587][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-20.07.12:587][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-20.07.12:587][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-20.07.12:587][747]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-20.07.12:592][747]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-20.07.12:592][747]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-20.07.12:602][747]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-20.07.12:602][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-20.07.12:602][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-20.07.12:602][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-20.07.12:602][747]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-20.07.12:603][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-20.07.12:603][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-20.07.12:604][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-20.07.12:604][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-20.07.12:604][747]LogInit: FAudioDevice initialized.
+[2022.01.30-20.07.12:604][747]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMenu'.
+[2022.01.30-20.07.12:619][747]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.07.12:621][747]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-14.07.12
+[2022.01.30-20.07.12:621][747]LogWorld: Bringing up level for play took: 0.000423
+[2022.01.30-20.07.12:621][747]LogOnline: OSS: Creating online subsystem instance for: :Context_107
+[2022.01.30-20.07.12:625][747]PIE: Server logged in
+[2022.01.30-20.07.12:626][747]PIE: Play in editor total start time 0.12 seconds.
+[2022.01.30-20.07.13:657][870]LogNet: Browse: /Game/TonyF/CreditsMenu
+[2022.01.30-20.07.13:657][870]LogLoad: LoadMap: /Game/TonyF/CreditsMenu
+[2022.01.30-20.07.13:657][870]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.07.13:657][870]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.07.13:657][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.07.13:727][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.07.13:732][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.01.30-20.07.13:737][870]LogAudio: Display: Audio Device (ID: 80) registered with world 'CreditsMenu'.
+[2022.01.30-20.07.13:738][870]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.07.13:738][870]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.07.13:740][870]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.07.13
+[2022.01.30-20.07.13:740][870]LogWorld: Bringing up level for play took: 0.000451
+[2022.01.30-20.07.13:740][870]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.07.13:741][870]LogLoad: Took 0.084229 seconds to LoadMap(/Game/TonyF/CreditsMenu)
+[2022.01.30-20.07.14:781][993]LogNet: Browse: /Game/TonyF/MainMenu
+[2022.01.30-20.07.14:781][993]LogLoad: LoadMap: /Game/TonyF/MainMenu
+[2022.01.30-20.07.14:781][993]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.07.14:781][993]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.07.14:781][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.07.14:857][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.07.14:862][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.01.30-20.07.14:862][993]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.07.14:864][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001097s)
+[2022.01.30-20.07.14:864][993]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.07.14:865][993]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2022.01.30-20.07.14:865][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/MainMenu.MainMenu to /Game/TonyF/UEDPIE_0_MainMenu.MainMenu (0.002275s)
+[2022.01.30-20.07.14:865][993]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMenu'.
+[2022.01.30-20.07.14:865][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.07.14:866][993]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-14.07.14
+[2022.01.30-20.07.14:866][993]LogWorld: Bringing up level for play took: 0.000292
+[2022.01.30-20.07.14:866][993]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.07.14:867][993]LogLoad: Took 0.086177 seconds to LoadMap(/Game/TonyF/UEDPIE_0_MainMenu)
+[2022.01.30-20.07.16:324][166]LogNet: Browse: /Game/TheHollowDeck/Map/TheHollowDeck
+[2022.01.30-20.07.16:324][166]LogLoad: LoadMap: /Game/TheHollowDeck/Map/TheHollowDeck
+[2022.01.30-20.07.16:324][166]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.07.16:324][166]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.07.16:324][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.07.16:400][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.07.16:405][166]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.01.30-20.07.16:482][166]LogAudio: Display: Audio Device (ID: 80) registered with world 'TheHollowDeck'.
+[2022.01.30-20.07.16:483][166]LogAIModule: Creating AISystem for world TheHollowDeck
+[2022.01.30-20.07.16:483][166]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.07.16:566][166]LogWorld: Bringing World /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck.TheHollowDeck up for play (max tick rate 0) at 2022.01.30-14.07.16
+[2022.01.30-20.07.16:566][166]LogWorld: Bringing up level for play took: 0.082611
+[2022.01.30-20.07.16:567][166]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.07.16:568][166]LogBlueprintUserMessages: [Health] 30
+[2022.01.30-20.07.16:568][166]LogLoad: Took 0.245043 seconds to LoadMap(/Game/TheHollowDeck/Map/TheHollowDeck)
+[2022.01.30-20.08.35:640][150]LogNet: Browse: /Game/TonyF/CreditsMenu
+[2022.01.30-20.08.35:640][150]LogLoad: LoadMap: /Game/TonyF/CreditsMenu
+[2022.01.30-20.08.35:640][150]LogWorld: BeginTearingDown for /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck
+[2022.01.30-20.08.35:641][150]LogWorld: UWorld::CleanupWorld for TheHollowDeck, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.08.35:643][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.08.35:735][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.08.35:744][150]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2022.01.30-20.08.35:754][150]LogAudio: Display: Audio Device (ID: 80) registered with world 'CreditsMenu'.
+[2022.01.30-20.08.35:755][150]LogAIModule: Creating AISystem for world CreditsMenu
+[2022.01.30-20.08.35:755][150]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.08.35:757][150]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_CreditsMenu.CreditsMenu up for play (max tick rate 0) at 2022.01.30-14.08.35
+[2022.01.30-20.08.35:757][150]LogWorld: Bringing up level for play took: 0.000891
+[2022.01.30-20.08.35:758][150]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.08.35:759][150]LogLoad: Took 0.119315 seconds to LoadMap(/Game/TonyF/CreditsMenu)
+[2022.01.30-20.08.40:779][675]LogNet: Browse: /Game/TonyF/MainMenu
+[2022.01.30-20.08.40:779][675]LogLoad: LoadMap: /Game/TonyF/MainMenu
+[2022.01.30-20.08.40:779][675]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_CreditsMenu
+[2022.01.30-20.08.40:779][675]LogWorld: UWorld::CleanupWorld for CreditsMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.08.40:779][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.08.40:845][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-20.08.40:851][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.01.30-20.08.40:853][675]LogPlayLevel: Creating play world package: /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.08.40:854][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001296s)
+[2022.01.30-20.08.40:855][675]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-20.08.40:855][675]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2022.01.30-20.08.40:855][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TonyF/MainMenu.MainMenu to /Game/TonyF/UEDPIE_0_MainMenu.MainMenu (0.002708s)
+[2022.01.30-20.08.40:855][675]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMenu'.
+[2022.01.30-20.08.40:855][675]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-20.08.40:857][675]LogWorld: Bringing World /Game/TonyF/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.01.30-14.08.40
+[2022.01.30-20.08.40:857][675]LogWorld: Bringing up level for play took: 0.000338
+[2022.01.30-20.08.40:857][675]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.30-20.08.40:859][675]LogLoad: Took 0.079528 seconds to LoadMap(/Game/TonyF/UEDPIE_0_MainMenu)
+[2022.01.30-20.10.50:865][641]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.01.30-20.10.57:694][349]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.30-20.10.57:703][349]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.30-20.11.18:661][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.01.30-20.11.48:168][406]LogMainFrame: Project requires temp target (NinjaCharacter plugin is enabled)
+[2022.01.30-20.11.48:170][406]LogLauncherProfile: Unable to use promoted target - F:/Unreal Projects/GGJ2022/Binaries/Win64/UE4Game.target does not exist.
+[2022.01.30-20.11.48:672][406]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.01.30-20.11.48:672][406]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="F:/Unreal Projects/GGJ2022/GGJ2022.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="F:/Unreal Projects/GGJ2022/GGJ2022.uproject" -cook -stage -archive -archivedirectory="F:/Unreal Projects/Game Jam 2022" -package -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -clientconfig=Development -utf8output
+[2022.01.30-20.11.49:535][485]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for F:\Unreal Projects\GGJ2022\GGJ2022.uproject
+[2022.01.30-20.11.52:383][780]UATHelper: Packaging (Windows (64-bit)): GGJ2022.uproject requires a temporary target.cs to be generated (NinjaCharacter plugin is enabled)
+[2022.01.30-20.11.53:002][835]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2022.01.30-20.11.53:021][837]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe GGJ2022 Win64 Development -Project="F:\Unreal Projects\GGJ2022\GGJ2022.uproject"  "F:\Unreal Projects\GGJ2022\GGJ2022.uproject" -NoUBTMakefiles  -remoteini="F:\Unreal Projects\GGJ2022" -skipdeploy -Manifest="F:\Unreal Projects\GGJ2022\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\tonyf\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-GGJ2022-Win64-Development.txt"
+[2022.01.30-20.11.53:639][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.11.53:639][884]LogWorld: BeginTearingDown for /Game/TonyF/UEDPIE_0_MainMenu
+[2022.01.30-20.11.53:639][884]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-20.11.53:639][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.11.53:656][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-20.11.53:667][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-20.11.53:771][884]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (F:\Unreal Projects\GGJ2022).
+[2022.01.30-20.11.53:771][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-20.11.53:772][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.11.53:774][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-20.11.53:803][884]LogUObjectHash: Compacting FUObjectHashTables data took  12.05ms
+[2022.01.30-20.11.53:835][885]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2022.01.30-20.12.10:190][490]UATHelper: Packaging (Windows (64-bit)):   ERROR: Could not find NetFxSDK install dir; this will prevent SwarmInterface from installing.  Install a version of .NET Framework SDK at 4.6.0 or higher.
+[2022.01.30-20.12.10:190][490]PackagingResults: Error: Could not find NetFxSDK install dir; this will prevent SwarmInterface from installing.  Install a version of .NET Framework SDK at 4.6.0 or higher.
+[2022.01.30-20.12.10:261][498]UATHelper: Packaging (Windows (64-bit)): Took 17.2382257s to run UnrealBuildTool.exe, ExitCode=6
+[2022.01.30-20.12.10:261][498]UATHelper: Packaging (Windows (64-bit)): UnrealBuildTool failed. See log for more details. (C:\Users\tonyf\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-GGJ2022-Win64-Development.txt)
+[2022.01.30-20.12.10:315][504]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=6 (6)
+[2022.01.30-20.12.10:357][506]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2022.01.30-20.12.10:357][506]PackagingResults: Error: Unknown Error
+[2022.01.30-20.12.24:905][147]LogSlate: Window 'Output Log' being destroyed
+[2022.01.30-20.12.24:912][147]LogSlate: Window 'Output Log' being destroyed
+[2022.01.30-20.12.29:866][599]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.01.30-20.12.53:096][251]LogSlate: Window 'Output Log' being destroyed
+[2022.01.30-20.12.53:103][251]LogSlate: Window 'Output Log' being destroyed
+[2022.01.30-20.13.40:205][  4]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.30-20.13.40:212][  4]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.30-20.13.47:413][739]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.01.30-20.14.11:512][950]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.30-20.14.11:522][950]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.30-20.14.35:469][486]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2022.01.30-20.14.38:241][486]LogMainFrame: Project requires temp target (NinjaCharacter plugin is enabled)
+[2022.01.30-20.14.38:241][486]LogLauncherProfile: Unable to use promoted target - F:/Unreal Projects/GGJ2022/Binaries/Win64/UE4Game-Win64-Shipping.target does not exist.
+[2022.01.30-20.14.38:304][487]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.01.30-20.14.38:412][499]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="F:/Unreal Projects/GGJ2022/GGJ2022.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="F:/Unreal Projects/GGJ2022/GGJ2022.uproject" -cook -stage -archive -archivedirectory="F:/Unreal Projects/Game Jam 2022" -package -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -clientconfig=Shipping -utf8output
+[2022.01.30-20.14.39:372][595]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for F:\Unreal Projects\GGJ2022\GGJ2022.uproject
+[2022.01.30-20.14.39:658][623]UATHelper: Packaging (Windows (64-bit)): GGJ2022.uproject requires a temporary target.cs to be generated (NinjaCharacter plugin is enabled)
+[2022.01.30-20.14.40:008][658]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2022.01.30-20.14.40:031][660]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe GGJ2022 Win64 Shipping -Project="F:\Unreal Projects\GGJ2022\GGJ2022.uproject"  "F:\Unreal Projects\GGJ2022\GGJ2022.uproject" -NoUBTMakefiles  -remoteini="F:\Unreal Projects\GGJ2022" -skipdeploy -Manifest="F:\Unreal Projects\GGJ2022\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\tonyf\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-GGJ2022-Win64-Shipping.txt"
+[2022.01.30-20.14.41:064][673]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (F:\Unreal Projects\GGJ2022).
+[2022.01.30-20.14.41:356][702]UATHelper: Packaging (Windows (64-bit)):   ERROR: Could not find NetFxSDK install dir; this will prevent SwarmInterface from installing.  Install a version of .NET Framework SDK at 4.6.0 or higher.
+[2022.01.30-20.14.41:356][702]PackagingResults: Error: Could not find NetFxSDK install dir; this will prevent SwarmInterface from installing.  Install a version of .NET Framework SDK at 4.6.0 or higher.
+[2022.01.30-20.14.41:407][707]UATHelper: Packaging (Windows (64-bit)): Took 1.3740497s to run UnrealBuildTool.exe, ExitCode=6
+[2022.01.30-20.14.41:407][707]UATHelper: Packaging (Windows (64-bit)): UnrealBuildTool failed. See log for more details. (C:\Users\tonyf\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-GGJ2022-Win64-Shipping.txt)
+[2022.01.30-20.14.41:428][709]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=6 (6)
+[2022.01.30-20.14.41:440][710]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2022.01.30-20.14.41:452][711]PackagingResults: Error: Unknown Error
+[2022.01.30-20.15.02:591][107]LogSlate: Window 'Output Log' being destroyed
+[2022.01.30-20.15.02:599][107]LogSlate: Window 'Output Log' being destroyed
