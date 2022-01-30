@@ -5053,3 +5053,106 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating World /Game/TheHollowDeck/Map/TheHollowDeck.TheHollowDeck
 [2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating SoundWave /Game/LazerusR/Gravity_Jungle__Finished_.Gravity_Jungle__Finished_
 [2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating SoundWave /Game/LazerusR/Gravity_Desert__Finished_.Gravity_Desert__Finished_
+[2022.01.30-19.21.49:818][806]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::AddComponent' [The specified module could not be found.]
+[2022.01.30-19.21.50:886][861]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::AddComponent' [The specified module could not be found.]
+[2022.01.30-19.23.01:779][148]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/TonyF/Gravity_Jungle_Cue.Gravity_Jungle_Cue
+[2022.01.30-19.27.11:479][109]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2022.01.30-19.27.11:504][109]LogContentBrowser: Creating deferred item: NewSoundCue
+[2022.01.30-19.27.20:336][138]LogContentBrowser: Attempting asset rename: NewSoundCue -> GDF_Cue
+[2022.01.30-19.27.20:337][138]LogContentBrowser: End creating deferred item NewSoundCue
+[2022.01.30-19.27.21:834][295]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/LazerusR/GDF_Cue.GDF_Cue
+[2022.01.30-19.27.39:486][ 79]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/TonyF/Gravity_Desert_Cue.Gravity_Desert_Cue:SoundCueGraph_0.SoundCueGraphNode_1 or SoundCueGraphNode /Game/TonyF/Gravity_Jungle_Cue.Gravity_Jungle_Cue:SoundCueGraph_0.SoundCueGraphNode_1
+[2022.01.30-19.27.39:486][ 79]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/TonyF/Gravity_Desert_Cue.Gravity_Desert_Cue:SoundCueGraph_0.SoundCueGraphNode_1 or SoundCueGraphNode /Game/LazerusR/GDF_Cue.GDF_Cue:SoundCueGraph_0.SoundCueGraphNode_1
+[2022.01.30-19.27.39:486][ 79]LogProperty: Warning: ObjectProperty /Script/Engine.SoundNode:ChildNodes.ChildNodes: unresolved reference to 'SoundNodeWavePlayer'"SoundCueGraphNode_1.SoundNodeWavePlayer_0"''
+[2022.01.30-19.31.05:907][875]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2022.01.30-19.31.05:921][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TheHollowDeck/Map/TheHollowDeck' took 0.080
+[2022.01.30-19.31.05:922][875]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TonyF/Gravity_Jungle_Cue] ([1] browsable assets)...
+[2022.01.30-19.31.05:922][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/TonyF/Gravity_Jungle_Cue]
+[2022.01.30-19.31.05:922][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/Gravity_Jungle_Cue" FILE="F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/Gravity_Jungle_Cue_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.01.30-19.31.05:924][875]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Jungle_Cue_Auto6B62DB8AB4960170D734063AD369EFF62.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/Gravity_Jungle_Cue_Auto6.uasset'
+[2022.01.30-19.31.05:925][875]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LazerusR/Gravity_Desert__Finished_] ([1] browsable assets)...
+[2022.01.30-19.31.05:968][875]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/LazerusR/Gravity_Desert__Finished_.Gravity_Desert__Finished_]
+[2022.01.30-19.31.05:968][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/LazerusR/Gravity_Desert__Finished_]
+[2022.01.30-19.31.05:968][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazerusR/Gravity_Desert__Finished_" FILE="F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/LazerusR/Gravity_Desert__Finished__Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.01.30-19.31.06:018][875]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Desert__Finished__Auto6EE11B15B46F199DEEF55848F98AC0B40.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/LazerusR/Gravity_Desert__Finished__Auto6.uasset'
+[2022.01.30-19.31.06:019][875]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LazerusR/Gravity_Jungle__Finished_] ([1] browsable assets)...
+[2022.01.30-19.31.06:056][875]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/LazerusR/Gravity_Jungle__Finished_.Gravity_Jungle__Finished_]
+[2022.01.30-19.31.06:056][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/LazerusR/Gravity_Jungle__Finished_]
+[2022.01.30-19.31.06:057][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazerusR/Gravity_Jungle__Finished_" FILE="F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/LazerusR/Gravity_Jungle__Finished__Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.01.30-19.31.06:130][875]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Jungle__Finished__Auto6801F39ED46B8C65DDC3C1486310D3C66.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/LazerusR/Gravity_Jungle__Finished__Auto6.uasset'
+[2022.01.30-19.31.06:130][875]LogFileHelpers: Auto-saving content packages took 0.209
+[2022.01.30-19.31.23:795][909]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/LazerusR/GDF_Cue.GDF_Cue
+[2022.01.30-19.32.08:423][518]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/LazerusR/GDF_Cue.GDF_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.01.30-19.36.35:410][569]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.01.30-19.36.35:433][569]LogContentBrowser: Creating deferred item: NewWorld
+[2022.01.30-19.36.43:175][477]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenu
+[2022.01.30-19.36.43:179][477]LogContentBrowser: End creating deferred item NewWorld
+[2022.01.30-19.36.45:343][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.01.30-19.36.48:234][725]LogSlate: Window 'Save Content' being destroyed
+[2022.01.30-19.36.48:271][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazerusR/GDF_Cue" FILE="F:/Unreal Projects/GGJ2022/Content/LazerusR/GDF_Cue.uasset" SILENT=true
+[2022.01.30-19.36.48:272][725]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/GDF_CueDDD574814BB05B146AEF1CA5CF3FADB2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/LazerusR/GDF_Cue.uasset'
+[2022.01.30-19.36.48:273][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazerusR/Gravity_Desert__Finished_" FILE="F:/Unreal Projects/GGJ2022/Content/LazerusR/Gravity_Desert__Finished_.uasset" SILENT=true
+[2022.01.30-19.36.48:353][725]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Desert__Finished_EDF59F444F6C0DD0AAF2E4A167E059B9.tmp' to 'F:/Unreal Projects/GGJ2022/Content/LazerusR/Gravity_Desert__Finished_.uasset'
+[2022.01.30-19.36.48:355][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazerusR/Gravity_Jungle__Finished_" FILE="F:/Unreal Projects/GGJ2022/Content/LazerusR/Gravity_Jungle__Finished_.uasset" SILENT=true
+[2022.01.30-19.36.48:659][725]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Jungle__Finished_B0321F2B4A629C73FE4BC188AE3063BC.tmp' to 'F:/Unreal Projects/GGJ2022/Content/LazerusR/Gravity_Jungle__Finished_.uasset'
+[2022.01.30-19.36.48:661][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/Gravity_Jungle_Cue" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/Gravity_Jungle_Cue.uasset" SILENT=true
+[2022.01.30-19.36.48:662][725]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Jungle_CueC1AC675B432F74553F5517A028D9C09F.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/Gravity_Jungle_Cue.uasset'
+[2022.01.30-19.36.48:663][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/MainMenu" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-19.36.48:691][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.01.30-19.36.48:693][725]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/MainMenu1B82171B49B4957912172AAF6F92EE87.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenu.umap'
+[2022.01.30-19.36.48:693][725]LogFileHelpers: Saving map 'MainMenu' took 0.030
+[2022.01.30-19.36.48:717][725]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TonyF/MainMenu.MainMenu
+[2022.01.30-19.36.48:717][725]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-19.36.48:717][725]LightingResults: New page: Lighting Build
+[2022.01.30-19.36.48:718][725]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.01.30-19.36.48:775][725]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.36.48:775][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.36.48:834][725]LogWorld: UWorld::CleanupWorld for TheHollowDeck, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.36.48:835][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.36.48:835][725]MapCheck: New page: Map Check
+[2022.01.30-19.36.48:835][725]LightingResults: New page: Lighting Build
+[2022.01.30-19.36.48:869][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-19.36.48:881][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.01.30-19.36.48:924][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.01.30-19.36.48:959][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.01.30-19.36.48:960][725]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.01.30-19.36.49:051][725]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-19.36.49:051][725]LogAIModule: Creating AISystem for world MainMenu
+[2022.01.30-19.36.49:089][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.01.30-19.36.49:101][725]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-19.36.49:102][725]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2022.01.30-19.36.49:102][725]LogFileHelpers: Loading map 'MainMenu' took 0.385
+[2022.01.30-19.36.49:133][725]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-19.36.49:133][725]LogContentValidation: Display: Validating SoundCue /Game/TonyF/Gravity_Jungle_Cue.Gravity_Jungle_Cue
+[2022.01.30-19.36.49:133][725]LogContentValidation: Display: Validating World /Game/TonyF/MainMenu.MainMenu
+[2022.01.30-19.36.49:133][725]LogContentValidation: Display: Validating SoundCue /Game/LazerusR/GDF_Cue.GDF_Cue
+[2022.01.30-19.36.49:133][725]LogContentValidation: Display: Validating SoundWave /Game/LazerusR/Gravity_Jungle__Finished_.Gravity_Jungle__Finished_
+[2022.01.30-19.36.49:133][725]LogContentValidation: Display: Validating SoundWave /Game/LazerusR/Gravity_Desert__Finished_.Gravity_Desert__Finished_
+[2022.01.30-19.38.33:231][501]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.01.30-19.38.33:253][501]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.01.30-19.38.41:492][486]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenuWid
+[2022.01.30-19.38.41:497][486]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.01.30-19.38.44:223][793]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TonyF/MainMenuWid.MainMenuWid
+[2022.01.30-19.39.42:268][422]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2022.01.30-19.39.43:698][422]LogSlate: Window 'Save Content' being destroyed
+[2022.01.30-19.39.43:719][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/MainMenuWid" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenuWid.uasset" SILENT=true
+[2022.01.30-19.39.43:722][422]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/MainMenuWid7B26ABE649380907219DBD823581378B.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/MainMenuWid.uasset'
+[2022.01.30-19.39.43:887][422]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TheHollowDeck/Map/TheHollowDeck.TheHollowDeck
+[2022.01.30-19.39.43:887][422]Cmd: MAP LOAD FILE="F:/Unreal Projects/GGJ2022/Content/TheHollowDeck/Map/TheHollowDeck.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.30-19.39.43:888][422]LightingResults: New page: Lighting Build
+[2022.01.30-19.39.43:888][422]LoadErrors: New page: Loading map: TheHollowDeck.umap
+[2022.01.30-19.39.43:889][422]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.39.43:889][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.39.43:889][422]MapCheck: New page: Map Check
+[2022.01.30-19.39.43:889][422]LightingResults: New page: Lighting Build
+[2022.01.30-19.39.43:936][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-19.39.43:949][422]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2022.01.30-19.39.43:950][422]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheHollowDeck'.
+[2022.01.30-19.39.44:211][422]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.30-19.39.44:211][422]LogAIModule: Creating AISystem for world TheHollowDeck
+[2022.01.30-19.39.44:268][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.01.30-19.39.44:282][422]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.30-19.39.44:282][422]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2022.01.30-19.39.44:282][422]LogFileHelpers: Loading map 'TheHollowDeck' took 0.394
+[2022.01.30-19.39.44:315][422]AssetCheck: New page: Asset Save: MainMenuWid
+[2022.01.30-19.39.44:315][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/TonyF/MainMenuWid.MainMenuWid
