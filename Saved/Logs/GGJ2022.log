@@ -4884,3 +4884,172 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.30-18.11.52:984][158]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.238
 [2022.01.30-18.28.41:738][546]LogSlate: Window 'Message Log' being destroyed
 [2022.01.30-18.28.41:747][546]LogSlate: Window 'Message Log' being destroyed
+[2022.01.30-19.01.31:507][412]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/TonyF/Gravity_Jungle.Gravity_Jungle
+[2022.01.30-19.01.51:803][655]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/TonyF/Gravity_Desert.Gravity_Desert
+[2022.01.30-19.05.22:812][427]BlueprintLog: New page: Compile TheHollowDeck
+[2022.01.30-19.05.22:904][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.01.30-19.05.30:601][ 97]BlueprintLog: New page: Compile TheHollowDeck
+[2022.01.30-19.05.30:691][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.01.30-19.05.38:229][731]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-19.05.38:237][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-19.05.38:237][731]PIE: New page: PIE session: TheHollowDeck (Jan 30, 2022, 7:05:38 AM)
+[2022.01.30-19.05.38:259][731]LogPlayLevel: Creating play world package: /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck
+[2022.01.30-19.05.38:303][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043284s)
+[2022.01.30-19.05.38:304][731]LogAIModule: Creating AISystem for world TheHollowDeck
+[2022.01.30-19.05.38:305][731]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2022.01.30-19.05.38:305][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TheHollowDeck/Map/TheHollowDeck.TheHollowDeck to /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck.TheHollowDeck (0.045116s)
+[2022.01.30-19.05.38:346][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.01.30-19.05.38:349][731]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2022.01.30-19.05.38:349][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-19.05.38:349][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-19.05.38:349][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-19.05.38:349][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-19.05.38:349][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-19.05.38:349][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-19.05.38:349][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-19.05.38:349][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-19.05.38:350][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-19.05.38:350][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-19.05.38:350][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-19.05.38:350][731]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-19.05.38:356][731]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-19.05.38:356][731]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-19.05.38:368][731]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-19.05.38:369][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-19.05.38:369][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-19.05.38:369][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-19.05.38:369][731]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-19.05.38:369][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-19.05.38:369][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-19.05.38:371][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-19.05.38:371][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-19.05.38:371][731]LogInit: FAudioDevice initialized.
+[2022.01.30-19.05.38:371][731]LogAudio: Display: Audio Device (ID: 66) registered with world 'TheHollowDeck'.
+[2022.01.30-19.05.38:388][731]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-19.05.38:403][731]LogWorld: Bringing World /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck.TheHollowDeck up for play (max tick rate 0) at 2022.01.30-13.05.38
+[2022.01.30-19.05.38:403][731]LogWorld: Bringing up level for play took: 0.014530
+[2022.01.30-19.05.38:403][731]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2022.01.30-19.05.38:407][731]LogBlueprintUserMessages: [Health] 30
+[2022.01.30-19.05.38:407][731]PIE: Server logged in
+[2022.01.30-19.05.38:408][731]PIE: Play in editor total start time 0.171 seconds.
+[2022.01.30-19.06.00:994][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.06.00:994][ 15]LogWorld: BeginTearingDown for /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck
+[2022.01.30-19.06.00:996][ 15]LogWorld: UWorld::CleanupWorld for TheHollowDeck, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.06.01:002][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.06.01:017][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-19.06.01:069][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.06.01:102][ 15]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-19.06.01:104][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.06.01:105][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.06.01:107][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.06.01:115][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.01.30-19.06.01:146][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2022.01.30-19.06.36:159][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.01.30-19.06.36:361][461]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/TheHollowDeck_Auto515070421494AC184BE352090880E8783.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TheHollowDeck/Map/TheHollowDeck_Auto5.umap'
+[2022.01.30-19.06.36:363][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TheHollowDeck/Map/TheHollowDeck' took 0.247
+[2022.01.30-19.06.36:363][461]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.247
+[2022.01.30-19.06.36:363][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TonyF/Gravity_Desert] ([1] browsable assets)...
+[2022.01.30-19.06.36:379][461]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TonyF/Gravity_Desert.Gravity_Desert]
+[2022.01.30-19.06.36:379][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/TonyF/Gravity_Desert]
+[2022.01.30-19.06.36:379][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/Gravity_Desert" FILE="F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/Gravity_Desert_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.01.30-19.06.36:385][461]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Desert_Auto50F1AA74541B02A3ECA124AB391D52BA6.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/Gravity_Desert_Auto5.uasset'
+[2022.01.30-19.06.36:385][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TonyF/Gravity_Jungle] ([1] browsable assets)...
+[2022.01.30-19.06.36:400][461]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TonyF/Gravity_Jungle.Gravity_Jungle]
+[2022.01.30-19.06.36:400][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/TonyF/Gravity_Jungle]
+[2022.01.30-19.06.36:400][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/Gravity_Jungle" FILE="F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/Gravity_Jungle_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.01.30-19.06.36:406][461]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Jungle_Auto5B5A5BF5B45B97EDEB628469FC0493B6E.tmp' to 'F:/Unreal Projects/GGJ2022/Saved/Autosaves/Game/TonyF/Gravity_Jungle_Auto5.uasset'
+[2022.01.30-19.06.36:407][461]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.01.30-19.08.10:076][107]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\tonyf\Downloads\drive-download-20220130T190658Z-001\Gravity Desert (Finished).wav)
+[2022.01.30-19.08.10:281][107]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\tonyf\Downloads\drive-download-20220130T190658Z-001\Gravity Jungle (Finished).wav)
+[2022.01.30-19.08.14:462][123]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/LazerusR/Gravity_Desert__Finished_.Gravity_Desert__Finished_
+[2022.01.30-19.09.19:337][282]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/LazerusR/Gravity_Jungle__Finished_.Gravity_Jungle__Finished_
+[2022.01.30-19.12.41:182][278]BlueprintLog: New page: Compile TheHollowDeck
+[2022.01.30-19.12.41:275][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2022.01.30-19.13.04:942][589]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-19.13.04:952][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-19.13.04:952][589]PIE: New page: PIE session: TheHollowDeck (Jan 30, 2022, 7:13:04 AM)
+[2022.01.30-19.13.04:975][589]LogPlayLevel: Creating play world package: /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck
+[2022.01.30-19.13.05:032][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056690s)
+[2022.01.30-19.13.05:034][589]LogAIModule: Creating AISystem for world TheHollowDeck
+[2022.01.30-19.13.05:034][589]LogPlayLevel: PIE: World Init took: (0.001947s)
+[2022.01.30-19.13.05:034][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TheHollowDeck/Map/TheHollowDeck.TheHollowDeck to /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck.TheHollowDeck (0.058930s)
+[2022.01.30-19.13.05:088][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2022.01.30-19.13.05:095][589]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2022.01.30-19.13.05:095][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-19.13.05:095][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-19.13.05:095][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-19.13.05:095][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-19.13.05:095][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-19.13.05:096][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-19.13.05:096][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-19.13.05:096][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-19.13.05:096][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-19.13.05:096][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-19.13.05:096][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-19.13.05:096][589]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-19.13.05:105][589]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-19.13.05:105][589]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-19.13.05:119][589]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2022.01.30-19.13.05:120][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-19.13.05:120][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-19.13.05:120][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-19.13.05:121][589]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-19.13.05:121][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-19.13.05:121][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-19.13.05:123][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-19.13.05:123][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-19.13.05:123][589]LogInit: FAudioDevice initialized.
+[2022.01.30-19.13.05:123][589]LogAudio: Display: Audio Device (ID: 67) registered with world 'TheHollowDeck'.
+[2022.01.30-19.13.05:134][589]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.30-19.13.05:154][589]LogWorld: Bringing World /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck.TheHollowDeck up for play (max tick rate 0) at 2022.01.30-13.13.05
+[2022.01.30-19.13.05:155][589]LogWorld: Bringing up level for play took: 0.019873
+[2022.01.30-19.13.05:155][589]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2022.01.30-19.13.05:159][589]LogBlueprintUserMessages: [Health] 30
+[2022.01.30-19.13.05:160][589]PIE: Server logged in
+[2022.01.30-19.13.05:161][589]PIE: Play in editor total start time 0.21 seconds.
+[2022.01.30-19.13.05:176][589]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Gravity_Desert__Finished_...
+[2022.01.30-19.13.05:184][589]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/LazerusR/Gravity_Desert__Finished_.Gravity_Desert__Finished_ will be modified from 40 to 40.
+[2022.01.30-19.13.08:898][589]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 27965064 while cooking SoundWave /Game/LazerusR/Gravity_Desert__Finished_.Gravity_Desert__Finished_.
+[2022.01.30-19.13.08:908][589]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Gravity_Jungle__Finished_...
+[2022.01.30-19.13.08:913][589]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/LazerusR/Gravity_Jungle__Finished_.Gravity_Jungle__Finished_ will be modified from 40 to 40.
+[2022.01.30-19.13.12:277][589]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 27965064 while cooking SoundWave /Game/LazerusR/Gravity_Jungle__Finished_.Gravity_Jungle__Finished_.
+[2022.01.30-19.15.25:284][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.15.25:285][503]LogWorld: BeginTearingDown for /Game/TheHollowDeck/Map/UEDPIE_0_TheHollowDeck
+[2022.01.30-19.15.25:286][503]LogWorld: UWorld::CleanupWorld for TheHollowDeck, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-19.15.25:287][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.15.25:309][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-19.15.25:361][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.15.25:392][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-19.15.25:394][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.15.25:395][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-19.15.25:404][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.01.30-19.15.25:432][504]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2022.01.30-19.16.28:830][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.01.30-19.16.28:874][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TheHollowDeck/Map/TheHollowDeck" FILE="F:/Unreal Projects/GGJ2022/Content/TheHollowDeck/Map/TheHollowDeck.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-19.16.28:908][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.01.30-19.16.29:103][  0]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/TheHollowDeck6FDEE0AF40EC824922140BB632B8C0BA.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TheHollowDeck/Map/TheHollowDeck.umap'
+[2022.01.30-19.16.29:117][  0]LogFileHelpers: Saving map 'TheHollowDeck' took 0.245
+[2022.01.30-19.16.29:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.01.30-19.16.29:215][  0]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonExampleMap172E67A44D3CE22F1C388398CEAC16AC.tmp' to 'F:/Unreal Projects/GGJ2022/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.01.30-19.16.29:220][  0]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.102
+[2022.01.30-19.16.29:220][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="F:/Unreal Projects/GGJ2022/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2022.01.30-19.16.29:276][  0]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonCharacterFC4343874F1437484020C1B72565CB9A.tmp' to 'F:/Unreal Projects/GGJ2022/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.01.30-19.16.29:277][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode" FILE="F:/Unreal Projects/GGJ2022/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" SILENT=true
+[2022.01.30-19.16.29:280][  0]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/ThirdPersonGameMode1173CE2C479F8AAEE37C87B06CD36E24.tmp' to 'F:/Unreal Projects/GGJ2022/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2022.01.30-19.16.29:290][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/Gravity_Desert" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/Gravity_Desert.uasset" SILENT=true
+[2022.01.30-19.16.29:295][  0]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Desert82B725744424C41545CF91AFC25D96B2.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/Gravity_Desert.uasset'
+[2022.01.30-19.16.29:296][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TonyF/Gravity_Jungle" FILE="F:/Unreal Projects/GGJ2022/Content/TonyF/Gravity_Jungle.uasset" SILENT=true
+[2022.01.30-19.16.29:301][  0]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_JungleE9B90E154CCB4FFF871972926E3ABAE0.tmp' to 'F:/Unreal Projects/GGJ2022/Content/TonyF/Gravity_Jungle.uasset'
+[2022.01.30-19.16.29:335][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazerusR/Gravity_Desert__Finished_" FILE="F:/Unreal Projects/GGJ2022/Content/LazerusR/Gravity_Desert__Finished_.uasset" SILENT=true
+[2022.01.30-19.16.29:414][  0]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Desert__Finished_C403B41D44B98A4ECDBE7FAD1C9E5C8C.tmp' to 'F:/Unreal Projects/GGJ2022/Content/LazerusR/Gravity_Desert__Finished_.uasset'
+[2022.01.30-19.16.29:441][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazerusR/Gravity_Jungle__Finished_" FILE="F:/Unreal Projects/GGJ2022/Content/LazerusR/Gravity_Jungle__Finished_.uasset" SILENT=true
+[2022.01.30-19.16.29:626][  0]LogSavePackage: Moving 'F:/Unreal Projects/GGJ2022/Saved/Gravity_Jungle__Finished_E3BAE1CE4FE19FCADA80229B852AB7E6.tmp' to 'F:/Unreal Projects/GGJ2022/Content/LazerusR/Gravity_Jungle__Finished_.uasset'
+[2022.01.30-19.16.29:645][  0]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-19.16.29:645][  0]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating SoundWave /Game/TonyF/Gravity_Jungle.Gravity_Jungle
+[2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating SoundWave /Game/TonyF/Gravity_Desert.Gravity_Desert
+[2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating World /Game/TheHollowDeck/Map/TheHollowDeck.TheHollowDeck
+[2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating SoundWave /Game/LazerusR/Gravity_Jungle__Finished_.Gravity_Jungle__Finished_
+[2022.01.30-19.16.29:646][  0]LogContentValidation: Display: Validating SoundWave /Game/LazerusR/Gravity_Desert__Finished_.Gravity_Desert__Finished_
